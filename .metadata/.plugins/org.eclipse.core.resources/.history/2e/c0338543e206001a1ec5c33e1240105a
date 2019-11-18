@@ -1,0 +1,6 @@
+package bean;
+
+public class Habitacion {
+private double m2;
+private String tipo;
+}

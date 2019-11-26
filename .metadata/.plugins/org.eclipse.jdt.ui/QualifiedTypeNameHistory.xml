@@ -14,8 +14,13 @@
 <fullyQualifiedTypeName name="bean.Persona"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="bean.Coche"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="bean.Pelicula"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="bean.Director"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="bean.Alumno"/>
+<fullyQualifiedTypeName name="bean.Curso"/>
+<fullyQualifiedTypeName name="bean.Profesor"/>
+<fullyQualifiedTypeName name="entidad.Persona"/>
+<fullyQualifiedTypeName name="java.lang.Package"/>
 </qualifiedTypeNameHistroy>

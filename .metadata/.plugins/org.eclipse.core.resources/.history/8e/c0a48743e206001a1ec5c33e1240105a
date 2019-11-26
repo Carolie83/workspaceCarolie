@@ -1,8 +1,0 @@
-package bean;
-
-public class Casa {
-private double precio;
-Arraylist<Habitacion> listaHabitacion;
-
-private Direccion direccion;
-}

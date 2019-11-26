@@ -19,6 +19,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\aula2m\Desktop\12_Peliculas"/>
 			<item value="\\SUNAUL033\manana_PROG_SIST\trabajo_clase\99_Herencia_Empleados"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">

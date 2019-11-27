@@ -15,12 +15,22 @@
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="bean.Coche"/>
 <fullyQualifiedTypeName name="bean.Pelicula"/>
-<fullyQualifiedTypeName name="bean.Director"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="bean.Alumno"/>
 <fullyQualifiedTypeName name="bean.Curso"/>
 <fullyQualifiedTypeName name="bean.Profesor"/>
 <fullyQualifiedTypeName name="entidad.Persona"/>
 <fullyQualifiedTypeName name="java.lang.Package"/>
+<fullyQualifiedTypeName name="entidad.Tiburon"/>
+<fullyQualifiedTypeName name="entidad.Animal"/>
+<fullyQualifiedTypeName name="entidad.Pez"/>
+<fullyQualifiedTypeName name="entidad.PezPayaso"/>
+<fullyQualifiedTypeName name="entidad.Trucha"/>
+<fullyQualifiedTypeName name="entidad.Oso"/>
+<fullyQualifiedTypeName name="entidad.Placton"/>
+<fullyQualifiedTypeName name="bean.Empleado"/>
+<fullyQualifiedTypeName name="bean.Director"/>
+<fullyQualifiedTypeName name="bean.Programador"/>
+<fullyQualifiedTypeName name="bean.JefeProyecto"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

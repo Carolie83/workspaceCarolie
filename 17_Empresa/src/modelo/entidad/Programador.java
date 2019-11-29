@@ -1,4 +1,4 @@
-package bean;
+package modelo.entidad;
 
 public class Programador extends Empleado {
 

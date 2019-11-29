@@ -1,4 +1,4 @@
-package bean;
+package modelo.entidad;
 
 public abstract class Empleado {
 	//atributos comunes que heredarán las otras clases

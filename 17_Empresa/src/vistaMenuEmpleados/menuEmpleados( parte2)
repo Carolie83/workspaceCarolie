@@ -1,0 +1,25 @@
+Ejercicio Herencia 2
+
+Siguiendo el modelo de datos de los empleados hacer
+ un programa que haga lo siguiente
+
+Mostrara un menu con los siguientes valores
+
+1- Alta empleado
+2- Listar empleados
+3- Calcular salario de los empleados
+0- Salir del programa
+
+Si pulsa 1, daremos de alta un empleado, pero nos preguntara cual
+1- Alta programador
+2- Alta jefe de proyecto
+3- Alta director
+
+En funcion de cual queramos crear, nos preguntara una serie de datos
+El alta director es el mas complicado, porque habria que preguntarle 
+que empleados tiene a su cargo (podriamos mostrarle la lista de empleados
+actuales, y que elija 1)
+
+si pulsa 2 mostraremos todos los empleados
+
+si pulsa 3 recorremos el array mostrando los sueldos de cada empleado

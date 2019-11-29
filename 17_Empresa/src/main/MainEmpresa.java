@@ -2,10 +2,10 @@ package main;
 
 import java.util.ArrayList;
 
-import bean.Director;
-import bean.Empleado;
-import bean.JefeProyecto;
-import bean.Programador;
+import modelo.entidad.Director;
+import modelo.entidad.Empleado;
+import modelo.entidad.JefeProyecto;
+import modelo.entidad.Programador;
 
 public class MainEmpresa {
 

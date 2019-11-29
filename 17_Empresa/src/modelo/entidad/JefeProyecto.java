@@ -1,4 +1,4 @@
-package bean;
+package modelo.entidad;
 
 public class JefeProyecto extends Empleado {
 private double incentivos;

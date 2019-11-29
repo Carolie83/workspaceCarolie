@@ -19,53 +19,55 @@ public class GestorPeliculas {
 	public void setListaPeliculas(ArrayList<Pelicula> listaPeliculas) {
 		this.listaPeliculas = listaPeliculas;
 	}
-	
+
 	/**
-	 * Metodo que da de alta una pelicula, pero el titulo 
-	 * debe de tener al menos 5 caracteres
+	 * Metodo que da de alta una pelicula, pero el titulo debe de tener al menos 5
+	 * caracteres
+	 * 
 	 * @param p representa la pelicula a dar de alta
-	 * @return true si el titulo tiene al menos 5 caracteres
-	 * false en caso contrario
+	 * @return true si el titulo tiene al menos 5 caracteres false en caso contrario
 	 */
 	public boolean alta(Pelicula p) {
-		//si tenemos algun requisito funcinales o validacion
-		//deben de ir al menos en la parte de negocio.
-		//se puede meter en la vista pero de manera opcional
-		if(p.getTitulo().length() > 5) {
-			listaPeliculas.add(p);//add una pelicula a la vista
+		// si tenemos algun requisito funcinales o validacion
+		// deben de ir al menos en la parte de negocio.
+		// se puede meter en la vista pero de manera opcional
+		if (p.getTitulo().length() > 5) {
+			listaPeliculas.add(p);// add una pelicula a la vista
 			return true;
-		}else {
+		} else {
 			return false;
 		}
 	}
-	
+
 	/**
 	 * Metodo que busca por titulo una pelicula
+	 * 
 	 * @param titulo el titulo de la pelicula a busdcar
-	 * @return pelicula en caso de que se encuetre, null
-	 * en caso de que no se encuentre
+	 * @return pelicula en caso de que se encuetre, null en caso de que no se
+	 *         encuentre
 	 */
 	public Pelicula buscarPorTitulo(String titulo) {
-		for(Pelicula p : listaPeliculas) {
-			if(p.getTitulo().equals(titulo)){
+		for (Pelicula p : listaPeliculas) {
+			if (p.getTitulo().equals(titulo)) {
 				return p;
 			}
 		}
 		return null;
 	}
-	
+
 	/**
-	 * Metodo que devuelve un array de peliculas que se encuentren
-	 * a partir de un genero de la pelicula
+	 * Metodo que devuelve un array de peliculas que se encuentren a partir de un
+	 * genero de la pelicula
+	 * 
 	 * @param genero el genero a buscar en la lista
-	 * @return un array con las peliculas que tengan el mismo
-	 * genero que el pasado por el parametro de entrada. Si
-	 * no hay coincidencias el array estaría vacio
+	 * @return un array con las peliculas que tengan el mismo genero que el pasado
+	 *         por el parametro de entrada. Si no hay coincidencias el array estaría
+	 *         vacio
 	 */
 	public ArrayList<Pelicula> buscarPorGenero(String genero) {
 		ArrayList<Pelicula> listaPeliculasGenero = new ArrayList<Pelicula>();
-		for(Pelicula p : listaPeliculas) {
-			if(p.getGenero().equals(genero)){
+		for (Pelicula p : listaPeliculas) {
+			if (p.getGenero().equals(genero)) {
 				listaPeliculasGenero.add(p);
 			}
 		}

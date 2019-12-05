@@ -2,16 +2,16 @@
 <launchHistory>
 <launchGroup id="org.eclipse.debug.ui.launchGroup.debug">
 <mruHistory>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainExceptionArreglado&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainExcepcion&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MenuEmpleados&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainEmpresa&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainAnimal&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainPez&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;mainPrueba&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainLibreria&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainCoches&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainColecciones&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaListar&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaBuscar&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaAlta&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaBaja&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaModificar&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaConexion (1)&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;QueryBBDDPruebaAlta&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaConexion&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;QueryBBDD&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;VistaEmpleados&quot;/&gt;&#13;&#10;"/>
 </mruHistory>
 <favorites/>
 </launchGroup>
@@ -21,16 +21,16 @@
 </launchGroup>
 <launchGroup id="org.eclipse.eclemma.ui.launchGroup.coverage">
 <mruHistory>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainExceptionArreglado&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainExcepcion&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MenuEmpleados&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainEmpresa&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainAnimal&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainPez&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;mainPrueba&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainLibreria&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainCoches&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainColecciones&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaListar&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaBuscar&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaAlta&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaBaja&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaModificar&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaConexion (1)&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;QueryBBDDPruebaAlta&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaConexion&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;QueryBBDD&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;VistaEmpleados&quot;/&gt;&#13;&#10;"/>
 </mruHistory>
 <favorites/>
 </launchGroup>
@@ -40,16 +40,16 @@
 </launchGroup>
 <launchGroup id="org.eclipse.debug.ui.launchGroup.run">
 <mruHistory>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainExceptionArreglado&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainExcepcion&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MenuEmpleados&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainEmpresa&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainAnimal&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainPez&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;mainPrueba&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainLibreria&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainCoches&quot;/&gt;&#13;&#10;"/>
-<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MainColecciones&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaListar&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaBuscar&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaAlta&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaBaja&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaModificar&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaConexion (1)&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;QueryBBDDPruebaAlta&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PruebaConexion&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;QueryBBDD&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;VistaEmpleados&quot;/&gt;&#13;&#10;"/>
 </mruHistory>
 <favorites/>
 </launchGroup>

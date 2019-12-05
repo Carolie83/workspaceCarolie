@@ -30,12 +30,24 @@
 <fullyQualifiedTypeName name="bean.Director"/>
 <fullyQualifiedTypeName name="bean.Programador"/>
 <fullyQualifiedTypeName name="bean.JefeProyecto"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="bean.Empleado"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="modelo.negocio.GestorEmpresa"/>
 <fullyQualifiedTypeName name="modelo.entidad.JefeProyecto"/>
 <fullyQualifiedTypeName name="modelo.entidad.Empleado"/>
 <fullyQualifiedTypeName name="modelo.entidad.Programador"/>
 <fullyQualifiedTypeName name="modelo.entidad.Director"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="negocio.GestorCalculadora"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.util.TimeZone"/>
+<fullyQualifiedTypeName name="com.mysql.cj.xdevapi.PreparableStatement"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="modelo.entidad.Coche"/>
+<fullyQualifiedTypeName name="modelo.persistencia.DaoCoche"/>
 </qualifiedTypeNameHistroy>

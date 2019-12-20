@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.lang.Math"/>
-<fullyQualifiedTypeName name="Empleado"/>
-<fullyQualifiedTypeName name="beans.Departamento"/>
-<fullyQualifiedTypeName name="Beans.Pedido"/>
 <fullyQualifiedTypeName name="Beans.Cliente"/>
 <fullyQualifiedTypeName name="beans.Animal"/>
 <fullyQualifiedTypeName name="beans.Gato"/>
@@ -36,18 +32,32 @@
 <fullyQualifiedTypeName name="modelo.entidad.Empleado"/>
 <fullyQualifiedTypeName name="modelo.entidad.Programador"/>
 <fullyQualifiedTypeName name="modelo.entidad.Director"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="negocio.GestorCalculadora"/>
 <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
 <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
 <fullyQualifiedTypeName name="java.util.LinkedList"/>
 <fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.sql.Connection"/>
 <fullyQualifiedTypeName name="java.sql.DriverManager"/>
 <fullyQualifiedTypeName name="java.util.TimeZone"/>
 <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.PreparableStatement"/>
 <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
-<fullyQualifiedTypeName name="modelo.entidad.Coche"/>
 <fullyQualifiedTypeName name="modelo.persistencia.DaoCoche"/>
+<fullyQualifiedTypeName name="modelo.entidad.Coche"/>
+<fullyQualifiedTypeName name="modelo.negocio.GestorPelicula"/>
+<fullyQualifiedTypeName name="modelo.entidad.Pelicula"/>
+<fullyQualifiedTypeName name="modelo.persistencia.DaoPelicula"/>
+<fullyQualifiedTypeName name="modelo.entidad.Libro"/>
+<fullyQualifiedTypeName name="modelo.persistencia.DaoLibro"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="basico.HiloThread"/>
+<fullyQualifiedTypeName name="basico.HiloRunnable"/>
+<fullyQualifiedTypeName name="hilos.HiloRunnableCuentaPrimos"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.io.PrintStream"/>
+<fullyQualifiedTypeName name="java.net.ServerSocket"/>
+<fullyQualifiedTypeName name="java.net.Socket"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

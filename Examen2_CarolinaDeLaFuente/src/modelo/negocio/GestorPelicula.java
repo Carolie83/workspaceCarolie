@@ -27,9 +27,7 @@ public class GestorPelicula {
 		if (pelicula.getAnioDePublicacion()< 0) {
 			return false;
 		}
-		if(pelicula.getTitulo().equals(pelicula.getTitulo())) {
-			return false;
-		}
+		
 		return daoPelicula.alta(pelicula);
 	}
 
@@ -53,7 +51,7 @@ public class GestorPelicula {
 		if (pelicula.getAnioDePublicacion()< 0) {
 			return false;
 		}
-		if(pelicula.getTitulo().equals(pelicula.getTitulo())) {
+		if(pelicula.getTitulo().equals(pelicula.getTitulo())) {//se refiere a la misma pelicula hay q recorrer la lista con for
 			return false;
 		}
 		

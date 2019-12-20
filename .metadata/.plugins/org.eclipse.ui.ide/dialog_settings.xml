@@ -14,11 +14,17 @@
 	</section>
 	<section name="ExternalProjectImportWizard">
 		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
-		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\27_EjercicioCalculadoraSockets"/>
+			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\26_Sockets"/>
+			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\25_EjercicioHilos"/>
+			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\24_Hilos"/>
+			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\23_LibreriaBBDD"/>
+			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\22_ExamenDriver"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\17_EmpleadosHerenciaFelix"/>
 			<item value="C:\Users\aula2m\Desktop\12_Peliculas"/>
 			<item value="\\SUNAUL033\manana_PROG_SIST\trabajo_clase\99_Herencia_Empleados"/>

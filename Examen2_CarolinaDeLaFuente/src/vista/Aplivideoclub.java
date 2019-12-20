@@ -28,6 +28,7 @@ public class Aplivideoclub {
 				System.out.println("Procedemos a realizar Alta pelicula");
 				Pelicula pelicula = new Pelicula();
 				// rellenar
+				//los datos hay que pedirlos al escaner
 				pelicula.setTitulo();
 				pelicula.setDirector();
 				pelicula.setGenero();

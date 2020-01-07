@@ -29,23 +29,24 @@ public class Aplivideoclub {
 				Pelicula pelicula = new Pelicula();
 				// rellenar
 				//los datos hay que pedirlos al escaner
+				/*
 				pelicula.setTitulo();
 				pelicula.setDirector();
 				pelicula.setGenero();
 				pelicula.setAnioDePublicacion();
-				gp.alta(pelicula);
+				gp.alta(pelicula);*/
 				break;
 			case 2:
 				System.out.println("Procedemos a realizar Baja pelicula por id");
-				gp.baja(pelicula);
+				//gp.baja(pelicula);
 				break;
 			case 3:
 				System.out.println("Procedemos a modificar pelicula por id");
-				gp.modificar(pelicula);
+				//gp.modificar(pelicula);
 				break;
 			case 4:
 				System.out.println("Procedemos a buscar pelicula por id");
-				gp.buscar(id);
+				//gp.buscar(id);
 				break;
 			case 5:
 				System.out.println("Procedemos a listar peliculas");

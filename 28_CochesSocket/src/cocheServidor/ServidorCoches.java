@@ -1,10 +1,12 @@
 package cocheServidor;
 
 import java.io.BufferedReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.PrintStream;
+import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.ArrayList;
@@ -12,7 +14,7 @@ import java.util.ArrayList;
 public class ServidorCoches {
 
 	public static void main(String[] args) {
-		String fichero =ficheroCoches;
+		String fichero = "ficheroCoches.txt";
 		ServerSocket ss = null;
 		try {
 			ss = new ServerSocket(1983);
@@ -72,14 +74,17 @@ public class ServidorCoches {
 			} catch (NumberFormatException nfe) {
 				System.out.println("Datos inroducidos incorrectos");
 				//para guardar en fichero
-				try(FileWriter fw = new FileWriter(ficheroCoches, true);
+				try(FileWriter fw = new FileWriter(fichero, true);
 
         				PrintWriter pw = new PrintWriter(fw);) {
 
         			//Si ponemos (nombreFichero,true) add en vez de borrar
 
         			pw.println("\nA continuación mostramos el listado de coches registrados hasta ahora: \n" + listaCoches);
-                }
+                } catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
 			}
 		}
 	}

@@ -8,7 +8,6 @@ package modelo.negocio;
 
 	import modelo.entidad.Libro;
 import modelo.persistencia.DaoLibro;
-import modelo.persistencia.DaoPelicula;
 
 	public class GestorLibreria {
 		private DaoLibro daoLibro;

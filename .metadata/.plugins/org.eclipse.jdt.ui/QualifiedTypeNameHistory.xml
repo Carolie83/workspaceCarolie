@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="Beans.Cliente"/>
-<fullyQualifiedTypeName name="beans.Animal"/>
 <fullyQualifiedTypeName name="beans.Gato"/>
 <fullyQualifiedTypeName name="beans.Empleado"/>
 <fullyQualifiedTypeName name="bean.Habitacion"/>
@@ -60,4 +58,6 @@
 <fullyQualifiedTypeName name="java.io.BufferedReader"/>
 <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
 </qualifiedTypeNameHistroy>

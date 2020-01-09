@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	    http://www.springframework.org/schema/beans/spring-beans.xsd 
+	    http://www.springframework.org/schema/context 
+	    http://www.springframework.org/schema/context/spring-context.xsd">
+<!-- en pestaña source, esto se hace src/main/resources  se crea new other-> crear fichero XML
+para comprobar file new spring y ya habrá opción Spring bean configuration file. 
+ahora ya podecmos dar de alta objetos con xml, otra opcion es anotaciones que veremos mas adelante
+Se puede hacer esto o en help eclipse marketplace buscar spring ye instalamos spring tools 3-->
+<!-- id y class son atributos necesarios de la etiqueta bean
+Ahora creamos nuestro primer objeto -->
+<bean id="persona1" class="modelo.entidad.persona"></bean>
+</beans>

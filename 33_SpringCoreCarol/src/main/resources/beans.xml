@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	    http://www.springframework.org/schema/beans/spring-beans.xsd 
+	    http://www.springframework.org/schema/context 
+	    http://www.springframework.org/schema/context/spring-context.xsd">
+<!-- en pestaña source, esto se hace src/main/resources  se crea new other-> crear fichero XML
+para comprobar file new spring y ya habrá opción Spring bean configuration file. 
+ahora ya podecmos dar de alta objetos con xml, otra opcion es anotaciones que veremos mas adelante
+Se puede hacer esto o en help eclipse marketplace buscar spring ye instalamos spring tools 3-->
+<!-- id y class son atributos necesarios de la etiqueta bean
+Ahora creamos nuestro primer objeto -->
+
+<!-- Aquí creamos un objeto persona de alcance Singleton, un objeto gestionado por Spring se suele llamar bean, 
+para crear un bean en Spring debemos crear primero la clase y es obligatorio que tenga el constructor por defecto.
+Por otro lado, al menos, debemos de crear un bean con identificador y de la clase, la cual vamos a usar para crear el objeto-->
+<bean id="persona1" class="modelo.entidad.persona"></bean>
+<bean id="persona2" class="modelo.entidad.persona">
+<!-- property es un atributo con getter y setter, por eso debemosañadir getter y setter en modelo.entidad.persona -->
+	<property name = "nombre" value= "Bud Spencer"></property>
+	<property name = "edad" value= "81"></property>
+	<property name = "peso" value= "200"></property>
+</bean>
+</beans>

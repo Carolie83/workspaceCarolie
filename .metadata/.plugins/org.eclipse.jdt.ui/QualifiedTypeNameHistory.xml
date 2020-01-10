@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="beans.Gato"/>
-<fullyQualifiedTypeName name="beans.Empleado"/>
-<fullyQualifiedTypeName name="bean.Habitacion"/>
-<fullyQualifiedTypeName name="bean.Direccion"/>
 <fullyQualifiedTypeName name="bean.Casa"/>
 <fullyQualifiedTypeName name="bean.Persona"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
@@ -60,4 +56,8 @@
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.io.FileWriter"/>
 <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContextException"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="modelo.entidad.Persona"/>
 </qualifiedTypeNameHistroy>

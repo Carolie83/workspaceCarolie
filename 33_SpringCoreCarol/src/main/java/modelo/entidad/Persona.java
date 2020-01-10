@@ -4,16 +4,9 @@ public class Persona {
 	private String nombre;
 	private int edad;
 	private double peso;
-			
+	//constructor por defecto
 	public Persona() {
 		super();
-	}
-	
-	public Persona(String nombre, int edad, double peso) {
-		super();
-		this.nombre = nombre;
-		this.edad = edad;
-		this.peso = peso;
 	}
 	public String getNombre() {
 		return nombre;
@@ -33,6 +26,5 @@ public class Persona {
 	public void setPeso(double peso) {
 		this.peso = peso;
 	}
-	
 	
 }

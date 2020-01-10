@@ -38,7 +38,7 @@
 		<property name="segundaMano" value="false"></property>
 		<property name="precio" value="35000"></property>
 		<property name="peso" value="3000"></property>
-			<property name="motor" ref="motor3"></property>
+		<property name="motor" ref="motor3"></property>
 	</bean>
 	 <!-- Motor se incluye con referencia pero el bean motor está con constructor usando index pero 
 	 como puede no ponerse lo hemos quetado como ej-->
@@ -51,7 +51,7 @@
 		<property name="segundaMano" value="false"></property>
 		<property name="precio" value="40000"></property>
 		<property name="peso" value="3700"></property>
-			<property name="motor" ref="motor4"></property>
+		<property name="motor" ref="motor4"></property>
 	</bean>
 	 <!-- Motor se incluye con bean interno y no se puede acceder a el directamente -->
 	<bean id="coche5" class="modelo.entidad.Coche">

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!-- Si queremos inyectar una dependencia por propiedad
+		podemos hacerlo con el atributo ref, y poniendo el 
+		id del objeto que queremos inyectar
+		Se haria de manera equivalente con constructor
+	 -->
+	 <!-- Motor se incluye con referencia -->
+	<bean id="coche1" class="modelo.entidad.Coche">
+		<property name="matricula" value="9700AAA"></property>
+		<property name="marca" value="Nisan"></property>
+		<property name="modelo" value="Juke"></property>
+		<property name="segundaMano" value="true"></property>
+		<property name="precio" value="25000"></property>
+		<property name="peso" value="3500"></property>
+		<property name="motor" ref="motor1"></property>
+	</bean>	
+	<bean id="coche2" class="modelo.entidad.Coche">
+		<!-- property es un atributo con getter y setter, por eso debemosañadir 
+			getter y setter en modelo.entidad.persona -->
+		<property name="matricula" value="1111BBB"></property>
+		<property name="marca" value="Seat"></property>
+		<property name="modelo" value="Ibiza"></property>
+		<property name="segundaMano" value="true"></property>
+		<property name="precio" value="7000"></property>
+		<property name="peso" value="2500"></property>
+		<property name="motor" ref="motor2"></property>
+	</bean>
+	 <!-- Motor se incluye con referencia pero el bean motor está con constructor usando index-->
+	<bean id="coche3" class="modelo.entidad.Coche">
+		<!-- property es un atributo con getter y setter, por eso debemosañadir 
+			getter y setter en modelo.entidad.persona -->
+		<property name="matricula" value="2222CCC"></property>
+		<property name="marca" value="Renault"></property>
+		<property name="modelo" value="Megane"></property>
+		<property name="segundaMano" value="false"></property>
+		<property name="precio" value="35000"></property>
+		<property name="peso" value="3000"></property>
+			<property name="motor" ref="motor3"></property>
+	</bean>
+	 <!-- Motor se incluye con referencia pero el bean motor está con constructor usando index pero 
+	 como puede no ponerse lo hemos quetado como ej-->
+	<bean id="coche4" class="modelo.entidad.Coche">
+		<!-- property es un atributo con getter y setter, por eso debemosañadir 
+			getter y setter en modelo.entidad.persona -->
+		<property name="matricula" value="3333DDD"></property>
+		<property name="marca" value="Honda"></property>
+		<property name="modelo" value="Civic"></property>
+		<property name="segundaMano" value="false"></property>
+		<property name="precio" value="40000"></property>
+		<property name="peso" value="3700"></property>
+			<property name="motor" ref="motor4"></property>
+	</bean>
+	 <!-- Motor se incluye con bean interno y no se puede acceder a el directamente -->
+	<bean id="coche5" class="modelo.entidad.Coche">
+		<!-- property es un atributo con getter y setter, por eso debemosañadir 
+			getter y setter en modelo.entidad.persona -->
+		<property name="matricula" value="4444EEE"></property>
+		<property name="marca" value="Peugueot"></property>
+		<property name="modelo" value="308"></property>
+		<property name="segundaMano" value="true"></property>
+		<property name="precio" value="20000"></property>
+		<property name="peso" value="3200"></property>
+		<property name="motor">
+			<bean class="modelo.entidad.Motor">
+				<property name="tipoMotor" value="1.9"></property>
+				<property name="cv" value="350"></property>
+				<property name="cilindrada" value="6000"></property>
+			</bean>
+		</property>
+	</bean>
+	<bean id="motor1" class="modelo.entidad.Motor">
+		<property name="tipoMotor" value="1.4"></property>
+		<property name="cv" value="180"></property>
+		<property name="cilindrada" value="3000"></property>
+	</bean>
+	<bean id="motor2" class="modelo.entidad.Motor">
+		<property name="tipoMotor" value="1.5"></property>
+		<property name="cv" value="200"></property>
+		<property name="cilindrada" value="4000"></property>
+	</bean>
+	<bean id="motor3" class="modelo.entidad.Motor">
+		<constructor-arg index="0" value="1.6"> </constructor-arg>
+		<constructor-arg index="1" value="240"> </constructor-arg>
+		<constructor-arg index="2" value="4200"> </constructor-arg>
+	</bean>
+	<bean id="motor4" class="modelo.entidad.Motor">
+		<constructor-arg  value="1.7"> </constructor-arg>
+		<constructor-arg  value="260"> </constructor-arg>
+		<constructor-arg  value="4400"> </constructor-arg>
+	</bean>
+		
+</beans>

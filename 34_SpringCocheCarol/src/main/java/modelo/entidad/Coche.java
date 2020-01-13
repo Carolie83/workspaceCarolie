@@ -8,7 +8,7 @@ public class Coche {
 	private double precio;
 	private double peso;
 	private Motor motor;
-	
+	//relacion de composicion : un coche respode a ¿tiene un? motor
 	public Coche() {
 		super();
 		

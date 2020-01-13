@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="direccion1" class="modelo.entidad.Direccion">
+		<property name="tipoVia" value="Calle"></property>
+		<property name="nombreVia" value="Hermanamiento"></property>
+		<property name="ciudad" value="Madrid"></property>
+		<property name="cp" value="28922"></property>
+	</bean>
+	<!-- private String tipoVia; private String nombreVia; private String ciudad; 
+		private String cp; -->
+
+	<bean id="propietario1" class="modelo.entidad.Persona">
+		<property name="nombre" value="Carol F"></property>
+		<property name="edad" value="36"></property>
+		<property name="peso" value="57"></property>
+		<property name="direccion">
+			<bean class="modelo.entidad.Direccion">
+				<property name="tipoVia" value="Avenida"></property>
+				<property name="nombreVia" value="Bruselas"></property>
+				<property name="ciudad" value="Segovia"></property>
+				<property name="cp" value="45670"></property>
+			</bean>
+		</property>
+	</bean>
+	<!--private String nombre; private int edad; private double peso; private 
+		Direccion direccion; -->
+	<bean id="habitacion1" class="modelo.entidad.Habitacion">
+		<property name="m2" value="17"></property>
+		<property name="tipo" value="dormitorio"></property>
+		<!--private double m2; private String tipo; -->
+	</bean>	
+	<bean id="habitacion2" class="modelo.entidad.Habitacion">
+		<property name="m2" value="9"></property>
+		<property name="tipo" value="baño"></property>
+	</bean>
+	<bean id="habitacion3" class="modelo.entidad.Habitacion">
+		<property name="m2" value="15"></property>
+		<property name="tipo" value="cocina"></property>
+				<!-- Podemos meter a una lista objetos que esten en nuestro contexto -->
+	</bean>
+	<bean id="listaHabitaciones1" class="java.util.ArrayList">
+		<constructor-arg>
+			<list value-type="modelo.entidad.Habitacion">
+				<ref bean="habitacion1"/>
+				<ref bean="habitacion2"></ref>
+				<ref bean="habitacion3"></ref>	
+			</list>
+		</constructor-arg>
+	</bean>
+	<bean id="casa1" class="modelo.entidad.Casa">
+					<!-- property es un atributo con getter y setter, por eso debemosañadir 
+						getter y setter en modelo.entidad.persona -->
+		<property name="precio" value="200000"></property>
+		<property name="listaHabitacion" ref= "listaHabitaciones1"></property>	
+		<property name="propietario" ref="propietario1"></property>
+		<property name="direccion" ref="direccion1"></property>
+	</bean>
+				<!--private double precio; private List<Habitacion> listaHabitacion; 
+					private Persona propietario; private Direccion direccion; -->
+</beans>

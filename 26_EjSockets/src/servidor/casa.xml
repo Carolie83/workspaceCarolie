@@ -1,0 +1,41 @@
+<!--Esto sería un comentario -->
+<!--Todo fichero xml tiene un nodo que se llama nodo raiz
+ o root solo puede haber uno-->
+<CASA>
+	<PRECIO>200.000</PRECIO>
+	<PROPIETARIO>
+		<NOMBRE>Pepito</NOMBRE>
+		<EDAD>35</EDAD>
+		<PESO>76</PESO>
+		<DIRECCION>
+			<TIPO_VIA>Avenida</TIPO_VIA>
+			<NOMBRE_VIA>Lisboa</NOMBRE_VIA>
+			<CIUDAD> Segovia</CIUDAD>
+			<CP>45322</CP>
+		</DIRECCION>
+	</PROPIETARIO>	
+	<DIRECCION>
+		<TIPO_VIA>Calle</TIPO_VIA>
+		<NOMBRE_VIA>Olmos 3</NOMBRE_VIA>
+		<CIUDAD> Madrid</CIUDAD>
+		<CP>28922</CP>
+	</DIRECCION>
+	<LISTA_HABITACIONES>
+		<HABITACION>
+			<M2>16</M2>
+			<TIPO>cocina</TIPO>
+		</HABITACION>
+		<HABITACION>
+			<M2>22</M2>
+			<TIPO>salon</TIPO>
+		</HABITACION>
+		<HABITACION>
+			<M2>9</M2>
+			<TIPO>baño</TIPO>
+		</HABITACION>
+		<HABITACION>
+			<M2>12</M2>
+			<TIPO>dormitorio</TIPO>
+		</HABITACION>
+	</LISTA_HABITACIONES>	
+</CASA>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd">
+<!-- Debemos de decir a Spring que vaya a las clases a buscar las anotaciones, con esta etiqueta.
+ Debemos de tener el namespace "context" metido (pestaña abajo namespaces) -->
+<context:component-scan base-package="modelo"></context:component-scan>
+<!-- podríamos seguir dando de alta beans como hemos hecho anteriormente por xml -->
+	
+	<bean id="peliculas" class="java.util.ArrayList"
+		scope="singleton">
+	</bean>
+	
+	<bean id="gestorPeliculas" class="modelo.negocio.GestorPeliculas">
+		<property name="listaPeliculas" ref="peliculas"></property>
+	</bean>
+	
+	<bean id="peliculasPorGenero" class="java.util.ArrayList"
+		scope="prototype">	
+	</bean>
+<!-- "modelo" es el paquete base por defecto, con modelo pusca en todos los paquetes, mas generico -->
+
+</beans>

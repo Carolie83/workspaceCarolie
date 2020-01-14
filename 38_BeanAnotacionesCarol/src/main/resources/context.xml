@@ -21,5 +21,5 @@
 		scope="prototype">	
 	</bean>
 <!-- "modelo" es el paquete base por defecto, con modelo pusca en todos los paquetes, mas generico -->
-
+<!-- 14/11/20 -->
 </beans>

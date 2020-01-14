@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	    http://www.springframework.org/schema/beans/spring-beans.xsd 
+	    http://www.springframework.org/schema/context 
+	    http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<!-- Aqui creamos un objeto persona de alcance Singleton,
+	un objeto gestionado por spring se suelen llamar bean,
+	para crear un bean en Spring debemos primero de crear
+	la clase, y es obligatorio que la clase tenga un constructor
+	por defecto.
+	Por otro lado, al menos, debemos de crear un bean con
+	un identificador y de la clase la cual vamos a usar
+	para crear el objeto
+	 -->
+	<bean id="persona1" class="modelo.entidad.Persona">
+	</bean>
+	
+	<bean id="bud" class="modelo.entidad.Persona">
+		<property name="nombre" value="Bud Spencer"></property>
+		<property name="edad" value="86"></property>
+		<property name="peso" value="156"></property>
+	</bean>
+	
+	<!-- Tambien podemos hacer que los beans al crearlos
+		llamen a un constructor especifico, en este caso
+		llamamos al constructor completo
+		Si no ponemos el index, entonces los argumentos
+		de entrada serian en el orden que los pongamos
+	 -->
+	 
+	<bean id="terence" class="modelo.entidad.Persona">
+		<constructor-arg index="0" value="Terence Hill"></constructor-arg>
+		<constructor-arg index="1" value="55"></constructor-arg>
+		<constructor-arg index="2" value="78.5"></constructor-arg>
+	</bean>
+	
+	<bean id="direccion1" class="modelo.entidad.Direccion">
+		<property name="tipoVia" value="calle"></property>
+		<property name="nombreVia" value="Jogüarts"></property>
+		<property name="ciudad" value="pais de nunca jamas"></property>
+	</bean>
+	
+	<!-- Si queremos inyectar una dependencia por propiedad
+		podemos hacerlo con el atributo ref, y poniendo el 
+		id del objeto que queremos inyectar
+		Se haria de manera equivalente con constructor
+	 -->
+	<bean id="ron" class="modelo.entidad.Persona">
+		<property name="nombre" value="Ron Güeslei"></property>
+		<property name="edad" value="20"></property>
+		<property name="peso" value="67"></property>
+		<property name="direccion" ref="direccion1"></property>
+	</bean>
+	
+	<!-- Tambien podemos crear lo que se llama un bean interno
+		para inyerctarselo a la persona
+	 -->
+	 
+	 <bean id="esneip" class="modelo.entidad.Persona">
+		<property name="nombre" value="Esneip Draco"></property>
+		<property name="edad" value="59"></property>
+		<property name="peso" value="71"></property>
+		<property name="direccion">
+			<bean class="modelo.entidad.Direccion">
+				<property name="tipoVia" value="Avenida"></property>
+				<property name="nombreVia" value="Hazcaban"></property>
+				<property name="ciudad" value="pais de nunca jamas"></property>
+			</bean>
+		</property>
+	</bean>
+	
+	<!-- Ya que estamos usando una referencia de la interfaz
+		List, podemos usar el objeto que queramos siempre
+		y cuando implemente la interfaz List
+		
+		Podemos usar LinkedList, ArrayList, Vector, AbstractList
+	 -->
+	<bean id="listaPersonas" class="java.util.LinkedList"></bean>
+	<bean id="stringBean" class="java.lang.String"></bean>
+	
+	<!-- Podemos meter a una lista objetos que esten en
+	nuestro contexto -->
+	<bean id="personas" class="java.util.ArrayList">
+		<constructor-arg>
+			<list value-type="modelo.entidad.Persona">
+				<ref bean="bud"/>
+				<ref bean="terence"></ref>
+				<bean class="modelo.entidad.Persona">
+					<property name="nombre" value="Dambeldor"></property>
+					<property name="edad" value="345"></property>
+					<property name="peso" value="90"></property>
+				</bean>
+			</list>
+		</constructor-arg>
+	</bean>
+	
+	<!-- 
+		Ciclos de vida de los objetos en Spring
+		
+		De momento todos estos objetos que hemos creado hasta
+		la fecha son de alcance(scope) o de ciclo de vida
+		de tipo SINGLETON. Esto quiere decir que la instancia
+		de dicho objeto es unica, solo existe ese objeto.
+		Por ejemplo, cuando me cree el objeto con id="bud" ese
+		objeto era unico y su ciclo de vida va a ser el ciclo
+		de vida del programa
+		
+		Existe otro ciclo de vida que el es llamado PROTOTYPE
+		Este ciclo de vida dice que cada vez que pidamos ese
+		objeto, no nos va a devolver ese objeto, nos va a
+		devolver un clon del mismo
+		
+		Para establecer el scope o ciclo de vida de un objeto
+		usamos el atribuo "scope", si no le decimos nada
+		el scope por defecto es SINGLETON
+		
+		Hay otro dos alcances que son SESSION y REQUEST
+		que ya veremos
+	 -->
+	 
+	 <bean id="personaSingleton" 
+	 	class="modelo.entidad.Persona"
+	 	scope="singleton">
+	 	<property name="nombre" value="Asterix"></property>
+	 	<property name="edad" value="39"></property>
+	 	<property name="peso" value="49"></property>
+	 </bean>
+	 
+	 <bean id="direccionPrototype" 
+	 		class="modelo.entidad.Direccion"
+	 		scope="prototype">
+	 </bean>
+	 
+	 <bean id="personaPrototype"
+	 		class="modelo.entidad.Persona"
+	 		scope="prototype">
+	 	<property name="nombre" value=""></property>
+	 	<property name="edad" value="18"></property>
+	 	<property name="direccion" ref="direccionPrototype"></property>		
+	 </bean>
+	 
+	 <bean id="listaPersonasSingleton"
+	 		class="java.util.ArrayList">		
+	 </bean>
+	 
+	 
+	 
+</beans> 

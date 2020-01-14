@@ -10,11 +10,10 @@
 			</bean>
 		</property>
 	</bean>
-	
 	 	<!-- private List<Pelicula> listaPeliculas = null; -->
-	
 	 	<!-- Objetos Prototype: peliculas, directores -->
-	<bean id= "director" class= "modelo.entidad.Director" scope="prototype">
+	<bean id= "director" class= "modelo.entidad.Director" scope="prototype"><!--no hace falta poner atributos de objetos protoptipados,
+	 se quedan a null y estan en la clase ver beans profe-->
 		<property name="nombre" value = ""></property>
 		<property name="edad" value =""></property>
 	</bean>
@@ -26,10 +25,8 @@
 	<property name="director" ref ="director"></property>
 	<property name="anioEstreno" value =""></property>
 	</bean>
-	
 	<!-- private String titulo;
 	private String genero;
 	private Director Director;
 	private int anioEstreno; -->
-	
 </beans>

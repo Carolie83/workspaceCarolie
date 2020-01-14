@@ -35,3 +35,1718 @@ Created Time: 2020-01-13 14:20:53.081
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:20:53.190
 !MESSAGE executing callback sts4.classpath.OmjXnHgh SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-13 14:30:59.457
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-13 14:30:59.489
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.551
+!MESSAGE Preparing classpath changed notification 21_DriverBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.582
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.598
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.614
+!MESSAGE buffering callback sts4.classpath.OmjXnHgh 21_DriverBBDD false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.629
+!MESSAGE Preparing classpath changed notification 22_ExamenDriver
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.645
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.661
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.676
+!MESSAGE buffering callback sts4.classpath.OmjXnHgh 22_ExamenDriver false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.692
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.723
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.739
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.754
+!MESSAGE buffering callback sts4.classpath.OmjXnHgh 23_LibreriaBBDD false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.770
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDDCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.786
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.801
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.832
+!MESSAGE buffering callback sts4.classpath.OmjXnHgh 23_LibreriaBBDDCarol false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.848
+!MESSAGE Preparing classpath changed notification Examen2_CarolinaDeLaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.864
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.864
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.886
+!MESSAGE buffering callback sts4.classpath.OmjXnHgh Examen2_CarolinaDeLaFuente false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.897
+!MESSAGE Preparing classpath changed notification Examen3_CarolinaDelaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.907
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.915
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.922
+!MESSAGE buffering callback sts4.classpath.OmjXnHgh Examen3_CarolinaDelaFuente false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.930
+!MESSAGE executing callback sts4.classpath.OmjXnHgh 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:30:59.957
+!MESSAGE executing callback sts4.classpath.OmjXnHgh SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.432
+!MESSAGE Preparing classpath changed notification 21_DriverBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.432
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.448
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.510
+!MESSAGE buffering callback sts4.classpath.OmjXnHgh 21_DriverBBDD false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.526
+!MESSAGE Preparing classpath changed notification 22_ExamenDriver
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.526
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.542
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.557
+!MESSAGE buffering callback sts4.classpath.OmjXnHgh 22_ExamenDriver false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.557
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.557
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.573
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.588
+!MESSAGE buffering callback sts4.classpath.OmjXnHgh 23_LibreriaBBDD false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.588
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDDCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.604
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.604
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.620
+!MESSAGE buffering callback sts4.classpath.OmjXnHgh 23_LibreriaBBDDCarol false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.620
+!MESSAGE Preparing classpath changed notification Examen2_CarolinaDeLaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.635
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.651
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.651
+!MESSAGE buffering callback sts4.classpath.OmjXnHgh Examen2_CarolinaDeLaFuente false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.667
+!MESSAGE Preparing classpath changed notification Examen3_CarolinaDelaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.682
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.682
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.698
+!MESSAGE buffering callback sts4.classpath.OmjXnHgh Examen3_CarolinaDelaFuente false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.698
+!MESSAGE executing callback sts4.classpath.OmjXnHgh 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.713
+!MESSAGE executing callback sts4.classpath.OmjXnHgh SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.760
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.OmjXnHgh
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.776
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.OmjXnHgh
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.776
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 14:31:08.776
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.OmjXnHgh => OK
+!SESSION 2020-01-14 08:35:20.773 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-01-14 08:36:22.533
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-01-14 08:36:22.533
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3b8c15de,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@26398f67,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:36:58.390
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:36:58.437
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4f655016[org.springframework.tooling.boot.ls:1.14.0.201912170939(id=1003)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:36:58.562
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:02.915
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-01-14 08:37:03.055
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\aula2m'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:22.873
+!MESSAGE Boot LS startup time from start to initialized: 23935ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.042
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ztjwfPlIisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.063
+!MESSAGE subscribing to classpath changes: sts4.classpath.ztjwfPlI isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.097
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.111
+!MESSAGE subsribers = {sts4.classpath.ztjwfPlI=Send Classpath Notifications(156)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.122
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.132
+!MESSAGE project 36_PeliculasSpringCarol ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.162
+!MESSAGE project 35_CasaSpringCarol ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.172
+!MESSAGE Preparing classpath changed notification 36_PeliculasSpringCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.181
+!MESSAGE project 01_intro_OObjetos ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.190
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.203
+!MESSAGE project 02_Proyecto_Clientes ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.217
+!MESSAGE classpath=28 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.233
+!MESSAGE project 03_HerenciaAnimales ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.242
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 36_PeliculasSpringCarol false 28
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.264
+!MESSAGE project 04_Herencia_Empleados ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.277
+!MESSAGE project 08_RepasoObjetos ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.290
+!MESSAGE Preparing classpath changed notification 35_CasaSpringCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.300
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.311
+!MESSAGE project 09Proyecto_Casa ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.322
+!MESSAGE classpath=28 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.333
+!MESSAGE project 10_Colecciones ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.346
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 35_CasaSpringCarol false 28
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.356
+!MESSAGE Preparing classpath changed notification 01_intro_OObjetos
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.366
+!MESSAGE project 11_Ejercicio ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.378
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.395
+!MESSAGE project 12_Ejercicio_peliculas ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.407
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.421
+!MESSAGE project 12_PeliculasFelix ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.432
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 01_intro_OObjetos false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.442
+!MESSAGE Preparing classpath changed notification 02_Proyecto_Clientes
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.451
+!MESSAGE project 13_Ejercicio_Libreria ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.464
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.474
+!MESSAGE project 14_EstaticoVsDinamico ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.496
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.509
+!MESSAGE project 16_Herencia ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.521
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 02_Proyecto_Clientes false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.530
+!MESSAGE project 17_EmpleadosHerenciaFelixExcepciones ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.539
+!MESSAGE Preparing classpath changed notification 03_HerenciaAnimales
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.549
+!MESSAGE project 17_Empresa ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.562
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.576
+!MESSAGE project 18_ExcepcionCarol ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.586
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.595
+!MESSAGE project 20_Interfaces_Carol ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.608
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 03_HerenciaAnimales false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.623
+!MESSAGE project 21_DriverBBDD ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.635
+!MESSAGE Preparing classpath changed notification 04_Herencia_Empleados
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.645
+!MESSAGE project 22_ExamenDriver ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.657
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.669
+!MESSAGE project 23_LibreriaBBDD ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.681
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.690
+!MESSAGE project 23_LibreriaBBDDCarol ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.701
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 04_Herencia_Empleados false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.712
+!MESSAGE project 24_Hilos ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.722
+!MESSAGE Preparing classpath changed notification 08_RepasoObjetos
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.732
+!MESSAGE project 24_HilosCarol ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.742
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.755
+!MESSAGE project 25_EjercicioHilos ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.770
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.781
+!MESSAGE project 25_NumPrimosHilosCarol ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.792
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 08_RepasoObjetos false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.801
+!MESSAGE project 26_Sockets ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.811
+!MESSAGE Preparing classpath changed notification 09Proyecto_Casa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.821
+!MESSAGE project 27_CalculadoraSocketsCarol ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.832
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.847
+!MESSAGE project 27_EjercicioCalculadoraSockets ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.857
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.867
+!MESSAGE project 28_CochesSocket ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.877
+!MESSAGE project 28_ServidorPeliculasFelix ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.886
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 09Proyecto_Casa false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.896
+!MESSAGE project 29_ClientePeliculasFelix ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.904
+!MESSAGE Preparing classpath changed notification 10_Colecciones
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.921
+!MESSAGE project 30_Videojuego ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.931
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.940
+!MESSAGE project 30_VideojuegoCarolMasPersonajes ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.947
+!MESSAGE project 30_VideojuegoParte1 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.954
+!MESSAGE project 31_VideojuegoAtaque ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.961
+!MESSAGE project 31_VideojuegoPelea ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.967
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.973
+!MESSAGE project 32_Maven ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.979
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 10_Colecciones false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.986
+!MESSAGE project 33_SpringCoreCarol ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.993
+!MESSAGE Preparing classpath changed notification 11_Ejercicio
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:23.999
+!MESSAGE project 33_SpringCorePendMod ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.005
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.012
+!MESSAGE project 34_SpringCocheCarol ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.020
+!MESSAGE project 99_Herencia_Empleados ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.033
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.050
+!MESSAGE project EXAMEN1CAROLINADELAFUENTEBARON ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.059
+!MESSAGE project Examen2_CarolinaDeLaFuente ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.067
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 11_Ejercicio false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.075
+!MESSAGE project Examen3_CarolinaDelaFuente ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.083
+!MESSAGE Preparing classpath changed notification 12_Ejercicio_peliculas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.091
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.100
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.108
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ztjwfPlI => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.116
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.212
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 12_Ejercicio_peliculas false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.231
+!MESSAGE Preparing classpath changed notification 12_PeliculasFelix
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.240
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.263
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.275
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 12_PeliculasFelix false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.287
+!MESSAGE Preparing classpath changed notification 13_Ejercicio_Libreria
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.298
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.308
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.326
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 13_Ejercicio_Libreria false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.342
+!MESSAGE Preparing classpath changed notification 14_EstaticoVsDinamico
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.354
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.369
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.384
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 14_EstaticoVsDinamico false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.394
+!MESSAGE Preparing classpath changed notification 16_Herencia
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.407
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.523
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.578
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 16_Herencia false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.588
+!MESSAGE Preparing classpath changed notification 17_EmpleadosHerenciaFelixExcepciones
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.599
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.652
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.675
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 17_EmpleadosHerenciaFelixExcepciones false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.684
+!MESSAGE Preparing classpath changed notification 17_Empresa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.693
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.727
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.786
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 17_Empresa false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.799
+!MESSAGE Preparing classpath changed notification 18_ExcepcionCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.810
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.829
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.840
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 18_ExcepcionCarol false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.848
+!MESSAGE Preparing classpath changed notification 20_Interfaces_Carol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.858
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.897
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.919
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 20_Interfaces_Carol false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.926
+!MESSAGE Preparing classpath changed notification 21_DriverBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.934
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.941
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:24.993
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 21_DriverBBDD false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.003
+!MESSAGE Preparing classpath changed notification 22_ExamenDriver
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.010
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.019
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.042
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 22_ExamenDriver false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.052
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.062
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.072
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.082
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDD false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.091
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDDCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.101
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.113
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.133
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDDCarol false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.149
+!MESSAGE Preparing classpath changed notification 24_Hilos
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.158
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.169
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.183
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 24_Hilos false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.194
+!MESSAGE Preparing classpath changed notification 24_HilosCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.204
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.214
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.254
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 24_HilosCarol false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.263
+!MESSAGE Preparing classpath changed notification 25_EjercicioHilos
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.271
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.283
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.293
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 25_EjercicioHilos false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.303
+!MESSAGE Preparing classpath changed notification 25_NumPrimosHilosCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.312
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.326
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.336
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 25_NumPrimosHilosCarol false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.348
+!MESSAGE Preparing classpath changed notification 26_Sockets
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.359
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.370
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.384
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 26_Sockets false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.392
+!MESSAGE Preparing classpath changed notification 27_CalculadoraSocketsCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.402
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.438
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.475
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 27_CalculadoraSocketsCarol false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.484
+!MESSAGE Preparing classpath changed notification 27_EjercicioCalculadoraSockets
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.493
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.532
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.540
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 27_EjercicioCalculadoraSockets false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.548
+!MESSAGE Preparing classpath changed notification 28_CochesSocket
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.557
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.659
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.692
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 28_CochesSocket false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.699
+!MESSAGE Preparing classpath changed notification 28_ServidorPeliculasFelix
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.705
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.716
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.723
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 28_ServidorPeliculasFelix false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.731
+!MESSAGE Preparing classpath changed notification 29_ClientePeliculasFelix
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.741
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.756
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.768
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 29_ClientePeliculasFelix false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.775
+!MESSAGE Preparing classpath changed notification 30_Videojuego
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.785
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.840
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.850
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 30_Videojuego false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.860
+!MESSAGE Preparing classpath changed notification 30_VideojuegoCarolMasPersonajes
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.870
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.914
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.923
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 30_VideojuegoCarolMasPersonajes false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.955
+!MESSAGE Preparing classpath changed notification 30_VideojuegoParte1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:25.964
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.005
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.022
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 30_VideojuegoParte1 false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.031
+!MESSAGE Preparing classpath changed notification 31_VideojuegoAtaque
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.041
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.065
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.091
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 31_VideojuegoAtaque false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.098
+!MESSAGE Preparing classpath changed notification 31_VideojuegoPelea
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.106
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.126
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.136
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 31_VideojuegoPelea false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.145
+!MESSAGE Preparing classpath changed notification 32_Maven
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.154
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.167
+!MESSAGE classpath=25 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.179
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 32_Maven false 25
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.189
+!MESSAGE Preparing classpath changed notification 33_SpringCoreCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.199
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.225
+!MESSAGE classpath=28 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.247
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 33_SpringCoreCarol false 28
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.259
+!MESSAGE Preparing classpath changed notification 33_SpringCorePendMod
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.268
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.280
+!MESSAGE classpath=28 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.290
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 33_SpringCorePendMod false 28
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.299
+!MESSAGE Preparing classpath changed notification 34_SpringCocheCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.309
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.329
+!MESSAGE classpath=28 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.341
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 34_SpringCocheCarol false 28
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.349
+!MESSAGE Preparing classpath changed notification 99_Herencia_Empleados
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.359
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.378
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.397
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 99_Herencia_Empleados false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.406
+!MESSAGE Preparing classpath changed notification EXAMEN1CAROLINADELAFUENTEBARON
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.424
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.434
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.444
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI EXAMEN1CAROLINADELAFUENTEBARON false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.453
+!MESSAGE Preparing classpath changed notification Examen2_CarolinaDeLaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.462
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.478
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.529
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen2_CarolinaDeLaFuente false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.540
+!MESSAGE Preparing classpath changed notification Examen3_CarolinaDelaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.549
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.575
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.672
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen3_CarolinaDelaFuente false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.680
+!MESSAGE executing callback sts4.classpath.ztjwfPlI 46 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:37:26.892
+!MESSAGE executing callback sts4.classpath.ztjwfPlI SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 08:57:50.018
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 08:57:50.042
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.350
+!MESSAGE Preparing classpath changed notification 21_DriverBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.358
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.366
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.375
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 21_DriverBBDD false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.383
+!MESSAGE Preparing classpath changed notification 22_ExamenDriver
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.392
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.403
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.412
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 22_ExamenDriver false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.421
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.428
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.438
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.444
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDD false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.451
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDDCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.457
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.464
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.470
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDDCarol false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.479
+!MESSAGE executing callback sts4.classpath.ztjwfPlI 4 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.497
+!MESSAGE executing callback sts4.classpath.ztjwfPlI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.506
+!MESSAGE Preparing classpath changed notification Examen2_CarolinaDeLaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.525
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.532
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.538
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen2_CarolinaDeLaFuente false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.545
+!MESSAGE Preparing classpath changed notification Examen3_CarolinaDelaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.551
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.558
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.565
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen3_CarolinaDelaFuente false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.571
+!MESSAGE executing callback sts4.classpath.ztjwfPlI 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:57:51.581
+!MESSAGE executing callback sts4.classpath.ztjwfPlI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.780
+!MESSAGE Preparing classpath changed notification 21_DriverBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.786
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.795
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.805
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 21_DriverBBDD false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.813
+!MESSAGE Preparing classpath changed notification 22_ExamenDriver
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.821
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.828
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.836
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 22_ExamenDriver false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.843
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.851
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.872
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.902
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDD false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.912
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDDCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.920
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.931
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.940
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDDCarol false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.948
+!MESSAGE executing callback sts4.classpath.ztjwfPlI 4 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.966
+!MESSAGE executing callback sts4.classpath.ztjwfPlI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.973
+!MESSAGE Preparing classpath changed notification Examen2_CarolinaDeLaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.985
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:05.995
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:06.002
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen2_CarolinaDeLaFuente false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:06.009
+!MESSAGE Preparing classpath changed notification Examen3_CarolinaDelaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:06.017
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:06.028
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:06.040
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen3_CarolinaDelaFuente false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:06.048
+!MESSAGE executing callback sts4.classpath.ztjwfPlI 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 08:58:06.062
+!MESSAGE executing callback sts4.classpath.ztjwfPlI SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 09:03:20.787
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 09:03:20.813
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:20.999
+!MESSAGE Preparing classpath changed notification 21_DriverBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.018
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.056
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.109
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 21_DriverBBDD false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.156
+!MESSAGE Preparing classpath changed notification 22_ExamenDriver
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.228
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.250
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.268
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 22_ExamenDriver false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.287
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.302
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.319
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.334
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDD false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.347
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDDCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.364
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.377
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.389
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDDCarol false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.402
+!MESSAGE Preparing classpath changed notification Examen2_CarolinaDeLaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.413
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.425
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.436
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen2_CarolinaDeLaFuente false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.447
+!MESSAGE Preparing classpath changed notification Examen3_CarolinaDelaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.458
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.471
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.485
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen3_CarolinaDelaFuente false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.497
+!MESSAGE executing callback sts4.classpath.ztjwfPlI 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:03:21.543
+!MESSAGE executing callback sts4.classpath.ztjwfPlI SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 09:22:30.696
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 09:22:30.712
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.732
+!MESSAGE Preparing classpath changed notification 21_DriverBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.745
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.758
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.770
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 21_DriverBBDD false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.782
+!MESSAGE Preparing classpath changed notification 22_ExamenDriver
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.791
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.809
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.821
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 22_ExamenDriver false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.831
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.839
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.846
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.857
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDD false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.870
+!MESSAGE executing callback sts4.classpath.ztjwfPlI 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.935
+!MESSAGE executing callback sts4.classpath.ztjwfPlI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.947
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDDCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.980
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:30.993
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:31.016
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDDCarol false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:31.038
+!MESSAGE Preparing classpath changed notification Examen2_CarolinaDeLaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:31.050
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:31.062
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:31.074
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen2_CarolinaDeLaFuente false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:31.085
+!MESSAGE Preparing classpath changed notification Examen3_CarolinaDelaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:31.099
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:31.110
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:31.119
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen3_CarolinaDelaFuente false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:31.125
+!MESSAGE executing callback sts4.classpath.ztjwfPlI 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:22:31.140
+!MESSAGE executing callback sts4.classpath.ztjwfPlI SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 09:36:40.676
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 09:36:40.707
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:40.801
+!MESSAGE Preparing classpath changed notification 21_DriverBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:40.848
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:40.848
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:40.863
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 21_DriverBBDD false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:40.895
+!MESSAGE Preparing classpath changed notification 22_ExamenDriver
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:40.895
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:40.910
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:40.926
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 22_ExamenDriver false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:40.926
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:40.942
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:40.957
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:40.973
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDD false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:40.988
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDDCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:41.004
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:41.020
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:41.035
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDDCarol false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:41.051
+!MESSAGE Preparing classpath changed notification Examen2_CarolinaDeLaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:41.067
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:41.082
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:41.098
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen2_CarolinaDeLaFuente false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:41.113
+!MESSAGE executing callback sts4.classpath.ztjwfPlI 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:41.192
+!MESSAGE executing callback sts4.classpath.ztjwfPlI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:41.207
+!MESSAGE Preparing classpath changed notification Examen3_CarolinaDelaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:41.254
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:41.270
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:41.285
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen3_CarolinaDelaFuente false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:41.301
+!MESSAGE executing callback sts4.classpath.ztjwfPlI 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:36:41.379
+!MESSAGE executing callback sts4.classpath.ztjwfPlI SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 09:39:36.305
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 09:39:36.336
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.399
+!MESSAGE Preparing classpath changed notification 21_DriverBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.430
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.445
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.461
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 21_DriverBBDD false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.461
+!MESSAGE Preparing classpath changed notification 22_ExamenDriver
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.477
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.477
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.492
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 22_ExamenDriver false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.492
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.492
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.508
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.523
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDD false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.523
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDDCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.523
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.539
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.555
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDDCarol false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.555
+!MESSAGE Preparing classpath changed notification Examen2_CarolinaDeLaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.555
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.570
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.570
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen2_CarolinaDeLaFuente false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.586
+!MESSAGE Preparing classpath changed notification Examen3_CarolinaDelaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.602
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.617
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.633
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen3_CarolinaDelaFuente false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.633
+!MESSAGE executing callback sts4.classpath.ztjwfPlI 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:39:36.836
+!MESSAGE executing callback sts4.classpath.ztjwfPlI SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 09:41:19.032
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 09:41:19.048
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.110
+!MESSAGE Preparing classpath changed notification 21_DriverBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.142
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.157
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.173
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 21_DriverBBDD false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.173
+!MESSAGE Preparing classpath changed notification 22_ExamenDriver
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.188
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.204
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.204
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 22_ExamenDriver false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.220
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.235
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.235
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.251
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDD false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.267
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDDCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.267
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.282
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.298
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDDCarol false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.313
+!MESSAGE Preparing classpath changed notification Examen2_CarolinaDeLaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.313
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.454
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.454
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen2_CarolinaDeLaFuente false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.548
+!MESSAGE Preparing classpath changed notification Examen3_CarolinaDelaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.595
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.782
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.845
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen3_CarolinaDelaFuente false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.907
+!MESSAGE executing callback sts4.classpath.ztjwfPlI 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:41:19.954
+!MESSAGE executing callback sts4.classpath.ztjwfPlI SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 09:46:26.043
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 09:46:26.058
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.074
+!MESSAGE Preparing classpath changed notification 21_DriverBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.090
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.105
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.105
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 21_DriverBBDD false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.121
+!MESSAGE Preparing classpath changed notification 22_ExamenDriver
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.137
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.137
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.152
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 22_ExamenDriver false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.152
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.168
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.183
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.183
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDD false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.183
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDDCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.199
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.215
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.230
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDDCarol false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.246
+!MESSAGE Preparing classpath changed notification Examen2_CarolinaDeLaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.246
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.261
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.277
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen2_CarolinaDeLaFuente false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.277
+!MESSAGE Preparing classpath changed notification Examen3_CarolinaDelaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.293
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.293
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.308
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen3_CarolinaDelaFuente false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.308
+!MESSAGE executing callback sts4.classpath.ztjwfPlI 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 09:46:26.340
+!MESSAGE executing callback sts4.classpath.ztjwfPlI SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 10:02:59.273
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 10:02:59.288
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.304
+!MESSAGE Preparing classpath changed notification 21_DriverBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.320
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.320
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.335
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 21_DriverBBDD false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.335
+!MESSAGE Preparing classpath changed notification 22_ExamenDriver
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.351
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.351
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.366
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 22_ExamenDriver false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.366
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.366
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.382
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.382
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDD false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.398
+!MESSAGE Preparing classpath changed notification 23_LibreriaBBDDCarol
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.398
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.398
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.413
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI 23_LibreriaBBDDCarol false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.413
+!MESSAGE Preparing classpath changed notification Examen2_CarolinaDeLaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.429
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.429
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.445
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen2_CarolinaDeLaFuente false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.445
+!MESSAGE Preparing classpath changed notification Examen3_CarolinaDelaFuente
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.460
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.460
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.476
+!MESSAGE buffering callback sts4.classpath.ztjwfPlI Examen3_CarolinaDelaFuente false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.476
+!MESSAGE executing callback sts4.classpath.ztjwfPlI 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 10:02:59.507
+!MESSAGE executing callback sts4.classpath.ztjwfPlI SUCCESS [done]

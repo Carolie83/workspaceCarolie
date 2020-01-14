@@ -1,6 +1,6 @@
 package vista;
 
-import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 import org.springframework.context.ApplicationContext;
@@ -9,7 +9,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import modelo.entidad.Director;
 import modelo.entidad.Pelicula;
 import modelo.negocio.GestorPeliculas;
-
+//faltan cosas por modificar.......revisar ejercicio profe
 //Esta clase hace labores de vista, cuya funcion basicamente
 //es la de comunciarse con el cliente (entrada y salida de 
 //información. Así como interacturar con la capa de modelo.negocio
@@ -20,14 +20,16 @@ public class MainPeliculaSpring {
 		
 		Scanner sc = new Scanner(System.in);
 		String opcion = "0";
+		GestorPeliculas gp = (GestorPeliculas)context.getBean("gp");
+		
 		//creamos el gestor pelicula que es el que va
 		//a llevar la logica de la aplicacion
-		GestorPeliculas gp = new GestorPeliculas();
-		//el gestor pelicula necesita de un array para funcionar
-		//lo creamos y se lo pasamos
-		ArrayList<Pelicula> listaPeliculas = new ArrayList<Pelicula>();
-		gp.setListaPeliculas(listaPeliculas);
-
+		/*GestorPeliculas gp = new GestorPeliculas();*/
+		//el gestor pelicula necesita de un array para funcionar lo creamos y se lo pasamos
+		/*ArrayList<Pelicula> listaPeliculas = new ArrayList<Pelicula>();*/
+		//List<Pelicula> listaPeliculas;
+		//gp.setListaPeliculas(listaPeliculas);
+		
 		do {
 			System.out.println("1- Alta de pelicula");
 			System.out.println("2- lista de peliculas");
@@ -70,7 +72,7 @@ public class MainPeliculaSpring {
 					System.out.println("La pelicula tiene que tener al menos 5 caracteres");
 				}
 			}else if(opcion.equals("2")) {
-				ArrayList<Pelicula> peliculas = gp.getListaPeliculas();
+				List<Pelicula> peliculas = gp.getListaPeliculas();
 				for(Pelicula p : peliculas) {
 					System.out.println(p);
 				}
@@ -89,7 +91,7 @@ public class MainPeliculaSpring {
 				//como la parte de la logica de negocio
 				//la lleva el gestor, usamos el gestor creado
 				//para buscar por genero
-				ArrayList<Pelicula> lista = gp.buscarPorGenero(genero);
+				List<Pelicula> lista = gp.buscarPorGenero(genero);
 				if(lista.size() != 0) {
 					System.out.println("La lista de peliculas por genero es:");
 					for(Pelicula p : lista) {

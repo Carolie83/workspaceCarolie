@@ -73,7 +73,7 @@ public class GestorPeliculas {
 			if (p.getGenero().equals(genero)) {
 				listaPeliculasGenero.add(p);
 			}
-		}
+		}//este array habria que haberlo hecho prototipado en beans , revisar ejercicio profe
 		return listaPeliculasGenero;
 	}
 }

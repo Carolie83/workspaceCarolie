@@ -10,7 +10,7 @@
 <!-- podríamos seguir dando de alta beans como hemos hecho anteriormente por xml -->
 	
 	<bean id="peliculas" class="java.util.ArrayList"
-		scope="singleton">
+		scope="singleton"><!-- ciclo de vida singleton porque el objeto siempre es el mismo y se va rellenando -->
 	</bean>
 	
 	<bean id="gestorPeliculas" class="modelo.negocio.GestorPeliculas">
@@ -18,7 +18,7 @@
 	</bean>
 	
 	<bean id="peliculasPorGenero" class="java.util.ArrayList"
-		scope="prototype">	
+		scope="prototype">	<!-- ciclo de vida cada vez que lo pido, el objeto es nuevo por eso este es prototype -->
 	</bean>
 <!-- "modelo" es el paquete base por defecto, con modelo pusca en todos los paquetes, mas generico -->
 <!-- 14/11/20 -->

@@ -19,6 +19,12 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\37_Autowired"/>
+			<item value="D:\JAVA CFB\workspace JSE\Proyectos\26_EjSockets"/>
+			<item value="D:\JAVA CFB\workspace JSE\Proyectos\26_SocketsCarol"/>
+			<item value="D:\JAVA CFB\workspace JSE\Proyectos\26_Sockets"/>
+			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\26_Sockets"/>
+			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\36_EjercicioPeliculasSpring"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\33_SpringCore"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\31_VideojuegoPelea"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\30_Videojuego"/>
@@ -27,14 +33,12 @@
 			<item value="C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\Examen3_CarolinaDelaFuente"/>
 			<item value="D:\Examen3_CarolinaDelaFuente"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\27_EjercicioCalculadoraSockets"/>
-			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\26_Sockets"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\25_EjercicioHilos"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\24_Hilos"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\23_LibreriaBBDD"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\22_ExamenDriver"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\17_EmpleadosHerenciaFelix"/>
 			<item value="C:\Users\aula2m\Desktop\12_Peliculas"/>
-			<item value="\\SUNAUL033\manana_PROG_SIST\trabajo_clase\99_Herencia_Empleados"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>

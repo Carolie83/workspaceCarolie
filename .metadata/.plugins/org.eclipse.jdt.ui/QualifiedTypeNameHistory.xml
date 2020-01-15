@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="bean.Persona"/>
-<fullyQualifiedTypeName name="java.util.HashMap"/>
-<fullyQualifiedTypeName name="bean.Coche"/>
-<fullyQualifiedTypeName name="bean.Pelicula"/>
 <fullyQualifiedTypeName name="bean.Alumno"/>
 <fullyQualifiedTypeName name="bean.Curso"/>
 <fullyQualifiedTypeName name="bean.Profesor"/>
@@ -36,7 +32,6 @@
 <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
 <fullyQualifiedTypeName name="modelo.persistencia.DaoCoche"/>
 <fullyQualifiedTypeName name="modelo.negocio.GestorPelicula"/>
-<fullyQualifiedTypeName name="modelo.entidad.Pelicula"/>
 <fullyQualifiedTypeName name="modelo.persistencia.DaoPelicula"/>
 <fullyQualifiedTypeName name="modelo.entidad.Libro"/>
 <fullyQualifiedTypeName name="modelo.persistencia.DaoLibro"/>
@@ -56,8 +51,13 @@
 <fullyQualifiedTypeName name="modelo.entidad.Persona"/>
 <fullyQualifiedTypeName name="modelo.entidad.Coche"/>
 <fullyQualifiedTypeName name="modelo.entidad.Habitacion"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
 <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="modelo.entidad.Pelicula"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 </qualifiedTypeNameHistroy>

@@ -13,6 +13,7 @@ import modelo.entidad.Pelicula;
 import vista.MainAnotaciones;
 @Service
 public class GestorPeliculas {
+	//aquí hace falta hacer autowired y así no hace meter en beans el gestor peliculas
 	private ArrayList<Pelicula> listaPeliculas = null;
 
 	public ArrayList<Pelicula> getListaPeliculas() {

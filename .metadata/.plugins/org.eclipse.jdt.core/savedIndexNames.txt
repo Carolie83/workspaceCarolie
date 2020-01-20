@@ -2,7 +2,6 @@ INDEX VERSION 1.131+C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo person
 2470263398.index
 753900984.index
 3303606114.index
-2972329969.index
 604227750.index
 3777984535.index
 1532318682.index
@@ -18,16 +17,13 @@ INDEX VERSION 1.131+C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo person
 4124911297.index
 2856243524.index
 910594444.index
-2110378138.index
 725151835.index
 751919287.index
 409416972.index
 4277025385.index
 2049917006.index
-1576784724.index
 319525492.index
 1347130369.index
-835649727.index
 2975945405.index
 1350174468.index
 1902453538.index
@@ -41,13 +37,12 @@ INDEX VERSION 1.131+C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo person
 1130799747.index
 3389087131.index
 1521872566.index
-1579313253.index
 359384758.index
 1046765705.index
 2523371173.index
 2990729162.index
+2358186939.index
 4040534376.index
-1983528137.index
 977214921.index
 1353264373.index
 1512713891.index
@@ -64,7 +59,6 @@ INDEX VERSION 1.131+C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo person
 1922919530.index
 2658482517.index
 2047621066.index
-1819367309.index
 3975432201.index
 2047100584.index
 4264479497.index

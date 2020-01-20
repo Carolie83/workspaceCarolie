@@ -27,7 +27,6 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 //esta etiqueta decismos a spring que use su gestor de transacacciones
 @EnableTransactionManagement
 public class Configuracion {
-
 	@Bean
 	public DataSource dataSource() {
 		DriverManagerDataSource ds = new DriverManagerDataSource();
@@ -37,7 +36,6 @@ public class Configuracion {
 		ds.setPassword("root");
 		return ds;
 	}
-
 	@Bean
 	public LocalContainerEntityManagerFactoryBean 
 		entityManagerFactory(DataSource dataSource, Environment env) {
@@ -59,12 +57,10 @@ public class Configuracion {
 
 		return entityManagerFactoryBean;
 	}
-	
 	@Bean
 	JpaTransactionManager transactionManager(EntityManagerFactory entityManagerFactory) {
 		JpaTransactionManager transactionManager = new JpaTransactionManager();
 		transactionManager.setEntityManagerFactory(entityManagerFactory);
 		return transactionManager;
-	}
-	
+	}	
 }

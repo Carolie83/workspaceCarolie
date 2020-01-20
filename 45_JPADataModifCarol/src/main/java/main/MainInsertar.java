@@ -16,13 +16,13 @@ public class MainInsertar {
 		GestorPelicula gp = context.getBean("gestorPelicula",GestorPelicula.class);
 		Pelicula p = context.getBean("pelicula",Pelicula.class);
 		
-		p.setTitulo("Titanic");
-		p.setGenero("amor");
-		p.setDirector("Leonardo Di Caprio");
-		p.setYear(2000);
+		p.setTitulo("Totoro");
+		p.setGenero("infantil");
+		p.setDirector("Hayao");
+		p.setYear(1985);
 		
 		gp.alta(p);
 		
-		System.out.println("Fin del alta pelicula");
+		System.out.println("Fin del alta pelicula" + gp.alta(p) );
 	}
 }

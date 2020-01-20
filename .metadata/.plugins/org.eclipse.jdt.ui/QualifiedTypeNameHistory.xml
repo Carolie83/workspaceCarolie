@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="entidad.Tiburon"/>
-<fullyQualifiedTypeName name="entidad.Animal"/>
-<fullyQualifiedTypeName name="entidad.Pez"/>
-<fullyQualifiedTypeName name="entidad.PezPayaso"/>
-<fullyQualifiedTypeName name="entidad.Trucha"/>
 <fullyQualifiedTypeName name="entidad.Oso"/>
 <fullyQualifiedTypeName name="entidad.Placton"/>
 <fullyQualifiedTypeName name="bean.Director"/>
@@ -34,7 +29,6 @@
 <fullyQualifiedTypeName name="basico.HiloThread"/>
 <fullyQualifiedTypeName name="basico.HiloRunnable"/>
 <fullyQualifiedTypeName name="hilos.HiloRunnableCuentaPrimos"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.io.PrintStream"/>
 <fullyQualifiedTypeName name="java.net.ServerSocket"/>
 <fullyQualifiedTypeName name="java.net.Socket"/>
@@ -47,17 +41,23 @@
 <fullyQualifiedTypeName name="modelo.entidad.Coche"/>
 <fullyQualifiedTypeName name="modelo.entidad.Habitacion"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
 <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
 <fullyQualifiedTypeName name="modelo.entidad.Pelicula"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
-<fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
-<fullyQualifiedTypeName name="modelo.negocio.GestorClientes"/>
 <fullyQualifiedTypeName name="vista.MainSpringBBDDClientes"/>
-<fullyQualifiedTypeName name="modelo.entidad.Cliente"/>
 <fullyQualifiedTypeName name="java.lang.Character"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
 <fullyQualifiedTypeName name="modelo.persistencia.DaoClientes"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+<fullyQualifiedTypeName name="modelo.negocio.GestorClientes"/>
+<fullyQualifiedTypeName name="modelo.entidad.Cliente"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="cfg.ConfigSpring"/>
 </qualifiedTypeNameHistroy>

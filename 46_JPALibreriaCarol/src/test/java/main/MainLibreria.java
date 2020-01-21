@@ -1,5 +1,6 @@
 package main;
 
+import java.util.List;
 import java.util.Scanner;
 
 import org.springframework.context.ApplicationContext;
@@ -7,7 +8,10 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 import config.Configuracion;
 import modelo.entidad.Libro;
+
 import modelo.negocio.GestorLibreria;
+import modelo.persistencia.DaoLibreria;
+
 
 public class MainLibreria {
 
@@ -65,10 +69,23 @@ public class MainLibreria {
 					System.out.println("Ya existe ese isbn");
 				}  */
 			}else if(opcion.equals("2")) {
+				List<Libro> listaLibros = gl.listar();
+				System.out.println("La lista de libros es: ");
+				for(Libro libroListado : listaLibros) {
+					System.out.println(libroListado);
+				}
 				
-				System.out.println("La lista de libros es: " + gl.listar() );
 				
 			}	
+			else if(opcion.equals("3")) {
+				System.out.println("Introduzca el ISBN a buscar");
+				String isbn = sc.nextLine();
+				List<Libro> listaIsbn = gl.findByIsbn(isbn);
+				System.out.println("El libro con ISBN"+ isbn + " es :  " );
+				for(Libro libroIsbn : listaIsbn) {
+					System.out.println(libroIsbn);
+				}
+			}
 	/*		else if(opcion.equals("3")) {
 				System.out.println("Introduzca el ISBN a buscar");
 				String isbn = sc.nextLine();
@@ -94,6 +111,16 @@ public class MainLibreria {
 					System.out.println("No hay conincidencias por editorial");
 				}   
 			}     */
+			else if(opcion.equals("4")) {
+				System.out.println("Introduzca el editorial a buscar");
+				String editorial = sc.nextLine();
+				List<Libro> listaEditorial = gl.findByEditorial(editorial);
+				System.out.println("Los libros con la editorial " + editorial + "son :" );
+				for(Libro libro : listaEditorial) {
+					System.out.println(libro);
+				}
+			
+			}
 		else if(opcion.equals("5")) {
 			System.out.println("Introduzca el id del libro a buscar");
 			String id = sc.nextLine();

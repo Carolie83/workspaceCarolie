@@ -41,18 +41,25 @@ public class GestorLibreria {
 	}
 	//buscar por id
 		public Libro obtener(int id) {
-			return daoLibreria.findById(id).get();
+		return daoLibreria.findById(id).get();
 		}
-	/*
+	
 		//buscar por ISBN
-	public Libro buscarPorIsbn(String isbn) {
-		return daoLibreria.buscarPorIsbn(isbn);
+//public List<Libro> findByIsbn(String isbn);, hay que hacerlo en gestor Así se escribiría en dao, en dao debe estar nobrado así
+	//pero main debe comunicarse con gestor
+		
+		
+	public List<Libro> findByIsbn(String isbn){
+	return daoLibreria.findByIsbn(isbn);
 	}
 	//Buscar por Editorial
-	public List<Libro> buscarPorEditorial(String editorial){
-		return daoLibreria.buscarPorEditorial(editorial);
+	
+	public List<Libro> findByEditorial(String editorial){
+		//public List<Libro> findByIsbn(String isbn);, hay que hacerlo en gestor Así se escribiría en dao, en dao debe estar nobrado así
+		//pero main debe comunicarse con gestor	
+		return daoLibreria.findByEditorial(editorial);
 	}
-	*/
+	
 	@Transactional //al hacer modificaciones se modifica BBDD
 	//Modificar libro
 	public Libro modificar(Libro l) {

@@ -7,13 +7,16 @@
 <body background="imagesRedimension.jpg">
 
 	<div style="text-align: center">
+			<br/>
+			<br/>
+			<br/>
 		<h1 style="color: #6000ce">SABROSISIMAS DE CAROL</h1>
 		<div style="font-style: italic">
 			<h2>Esta página web recoge un compendio de mis recetas mas</h2>
 			<h2>sabrosas y que he disfrutado haciendo y comiendo.</h2>
 		</div>
 	</div>
-	<br />
+	<br/>
 	<table style="width: 100%">
 		<tr>
 			<td style="width: 75%">
@@ -26,7 +29,8 @@
 				<h2 style="color: #9e0091">RECETAS DULCES</h2>
 				<ul>
 					<li>Leche merengada</li>
-					<li>Brownie de pistacho y chocolate blanco</li>
+					<li><a href="brownieChocoPistacho.html">Brownie de pistacho y chocolate blanco</a>
+					</li>
 					<li>Bizcocho de cerveza</li>
 				</ul>
 			</td>
@@ -64,6 +68,12 @@
 			</td>
 		</tr>
 	</table>
+	<button onclick="goBack()">Volver atras</button>
 
+<script>
+function goBack() {
+  window.history.back();
+}
+</script> <!-- este botón me lleva a la página anterior desde la que llegué, no me lleva siempre a la misma como href -->
 </body>
 </html>

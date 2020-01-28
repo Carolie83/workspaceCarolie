@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>51_ServletsMultiplicarCarol</display-name>
+  <servlet>
+    <description></description>
+    <display-name>MultiplicarServlet</display-name>
+    <servlet-name>MultiplicarServlet</servlet-name>
+    <servlet-class>servlets.MultiplicarServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>MultiplicarServlet</servlet-name>
+    <url-pattern>/MultiplicarServlet</url-pattern>
+  </servlet-mapping>
+</web-app>

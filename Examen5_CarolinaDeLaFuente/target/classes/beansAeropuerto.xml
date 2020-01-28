@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<!-- Si queremos inyectar una dependencia por propiedad podemos hacerlo 
+		con el atributo ref, y poniendo el id del objeto que queremos inyectar Se 
+		haria de manera equivalente con constructor -->
+	<!-- Para ser propiedad debe tener getter y setter -->
+	<bean id="asiento1" class="modelo.entidad.Asiento">
+		<property name="numero" value="1"></property>
+		<property name="color" value="azul"></property>
+	</bean>
+	<bean id="asiento2" class="modelo.entidad.Asiento">
+		<property name="numero" value="2"></property>
+		<property name="color" value="verde"></property>
+	</bean>
+	<bean id="asiento3" class="modelo.entidad.Asiento">
+		<property name="numero" value="3"></property>
+		<property name="color" value="rojo"></property>
+	</bean>
+	<bean id="listaAsientos" class="java.util.ArrayList">
+		<constructor-arg>
+			<list value-type="modelo.entidad.Asiento">
+				<ref bean="asiento1" />
+				<ref bean="asiento2" />
+				<ref bean="asiento3" />
+			</list>
+		</constructor-arg>
+	</bean>
+	<!-- Las ruedas las damos de alta por constructor y las inyectamos al avion 
+		mediate rferencia -->
+	<bean id="rueda1" class="modelo.entidad.Rueda">
+		<constructor-arg index="0" value="pirelli">
+		</constructor-arg>
+		<constructor-arg index="1" value="poliuertano">
+		</constructor-arg>
+	</bean>
+	<bean id="rueda2" class="modelo.entidad.Rueda">
+		<constructor-arg index="0" value="bridgestone">
+		</constructor-arg>
+		<constructor-arg index="1" value="polivinilo">
+		</constructor-arg>
+	</bean>
+	<bean id="rueda3" class="modelo.entidad.Rueda">
+		<constructor-arg index="0" value="goodyear">
+		</constructor-arg>
+		<constructor-arg index="1" value="policloruro">
+		</constructor-arg>
+
+	</bean>
+	<bean id="listaRuedas" class="java.util.ArrayList">
+		<constructor-arg>
+			<list value-type="modelo.entidad.Rueda">
+				<ref bean="rueda1" />
+				<ref bean="rueda2" />
+				<ref bean="rueda3" />
+			</list>
+		</constructor-arg>
+	</bean>
+	<bean id="motor1" class="modelo.entidad.Motor">
+		<property name="cv" value="500"></property>
+		<property name="cilindrada" value="7000"></property>
+	</bean>
+	<bean id="motor2" class="modelo.entidad.Motor">
+		<property name="cv" value="600"></property>
+		<property name="cilindrada" value="8000"></property>
+	</bean>
+	<bean id="motor3" class="modelo.entidad.Motor">
+		<property name="cv" value="700"></property>
+		<property name="cilindrada" value="9000"></property>
+	</bean>
+	<bean id="listaMotor" class="java.util.ArrayList">
+		<constructor-arg>
+			<list value-type="modelo.entidad.Motor">
+				<ref bean="motor1" />
+				<ref bean="motor2" />
+				<ref bean="motor3" />
+
+			</list>
+		</constructor-arg>
+	</bean>
+	<!-- Los motores los damos de alta mediante propiedad se han alñadido a 
+		la lista de motores y se inyectan por inner bean al avion -->
+	<bean id="avion1" class="modelo.entidad.Avion">
+		<property name="id" value="1"></property>
+		<property name="marcaAvion" value="boing 747"></property>
+		<property name="listaAsientos" ref="listaAsientos"></property>
+		 <property name="listaMotores">
+		
+  			<bean id="listaMotor" class="modelo.entidad.Motor" /> 
+ 
+		
+		</property>
+		<!-- NO SE ESTÁ INYECTANDO LA INFORMACION DE LOS MOTORES --> 
+		<property name="listaRuedas" ref="listaRuedas"></property>
+		<property name="kilometros" value="3500"></property>
+	</bean>
+	<bean id="avion2" class="modelo.entidad.Avion">
+		<property name="id" value="2"></property>
+		<property name="marcaAvion" value="boing 737"></property>
+		<property name="listaAsientos" ref="listaAsientos"></property>
+		 <property name="listaMotores" ref="listaMotor"></property>
+		<property name="listaRuedas" ref="listaRuedas"></property>
+		<property name="kilometros" value="6400"></property>
+	</bean>
+	<bean id="listaAviones" class="java.util.ArrayList">
+		<constructor-arg>
+			<list value-type="modelo.entidad.Avion">
+				<ref bean="avion1" />
+				<ref bean="avion2" />
+			</list>
+		</constructor-arg>
+	</bean>
+
+	<bean id="aeropuerto" class="modelo.entidad.Aeropuerto"
+		autowire="byName">
+		<property name="listaAviones" ref="listaAviones"></property>
+		<property name="nombre" value="Barajas"></property>
+		<property name="ciudad" value="Madrid"></property>
+	</bean>
+</beans>

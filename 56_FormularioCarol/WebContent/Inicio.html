@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Inicio Cervezas</title>
+<style type="text/css">
+h2 {
+	text-align: center;
+	color: blue;
+}
+
+h3 {
+	text-align: left;
+	color: darkblue;
+}
+</style>
+
+</head>
+<body background="cervezasModifRedim.jpg">
+	<form action="ServletLogin" method="get">
+		<h2 style="font-family: bookman old style">Bienvenido a Beer's
+			Carol</h2>
+		<div style="text-align: center"></div>
+		<table style="width: 100%; text-align: left">
+			<tr>
+				<th style="width: 33%"></th>
+				<th style="width: 33%"></th>
+				<th style="width: 33%"></th>
+			</tr>
+			<tr>
+				<td></td>
+				<td>
+					<h3>RELLENA LOS SIGUIENTES DATOS:</h3>
+					<h3>
+						Nombre: <input type="text" name="nombre" /> <br /> Apellido: <input
+							type="text" name="apellido" /> <br /> Email: <input
+							type="email" name="email" /> <br />
+					</h3>
+					<h2>Elija el tipo de cerveza:</h2>
+					<h3>
+						<input type="radio" name="tipo" value="ipa">Ipa <br /> <input
+							type="radio" name="tipo" value="stout">Stout<br /> <input
+							type="radio" name="tipo" value="porter">Porter
+					</h3>
+					<h2>Puntuación</h2> <!-- El desplegable funciona de manera parecida a los radio -->
+					<h3>
+						<select name="puntuacion">
+							<option value="1">Muy baja</option>
+							<option value="2">Baja</option>
+							<option value="3">Media</option>
+							<option value="4">Alta</option>
+							<option value="5">Muy alta</option>
+						</select>
+					</h3>
+					<h2>Características especiales</h2>
+					<h3>
+						<input type="checkbox" name="tags" value="alcohol">Mas de
+						10 grados <br /> <input type="checkbox" name="tags"
+							value="dobleLupulo">Doble lúpulo
+					</h3>
+					<h2>Indique una breve valoración</h2> <textarea rows="3" cols="50"
+						name="valoracion"></textarea> <br /> <input type="submit"
+					value="Enviar">
+				</td>
+				<td></td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>

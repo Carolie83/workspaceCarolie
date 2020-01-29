@@ -19,6 +19,9 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\53_Parametros"/>
+			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\52_ServletsAnotaciones"/>
+			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\51_TablaMultiplicar"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\50_Servlets"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\35_EjercicioCasaSpring"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\48_HTMLEjercicios"/>
@@ -36,9 +39,6 @@
 			<item value="D:\JAVA CFB\workspace JSE\Proyectos\26_SocketsCarol"/>
 			<item value="D:\JAVA CFB\workspace JSE\Proyectos\26_Sockets"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\26_Sockets"/>
-			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\36_EjercicioPeliculasSpring"/>
-			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\33_SpringCore"/>
-			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\31_VideojuegoPelea"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>

@@ -34,7 +34,7 @@ public class Configuracion {
 		ds.setDriverClassName("com.mysql.cj.jdbc.Driver");
 		ds.setUrl("jdbc:mysql://localhost:3306/jpa_data?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC");
 		ds.setUsername("root");
-		ds.setPassword("");
+		ds.setPassword("root");
 		return ds;
 	}
 
@@ -47,7 +47,7 @@ public class Configuracion {
 		
 		entityManagerFactoryBean.setDataSource(dataSource);
 		entityManagerFactoryBean.setJpaVendorAdapter(new HibernateJpaVendorAdapter());
-		entityManagerFactoryBean.setPackagesToScan("modelo.entidad");
+		entityManagerFactoryBean.setPackagesToScan("curso.modelo.entidad");
 		
 		Properties jpaProperties = new Properties();
 		//jpaProperties.put("hibernate.dialect", "org.hibernate.dialect.MySQLDialect");

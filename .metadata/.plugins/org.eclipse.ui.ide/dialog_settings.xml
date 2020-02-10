@@ -19,6 +19,9 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\45_JPAData"/>
+			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\61_SpringMVCTablaMultiplicar"/>
+			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\60_SpringMVC"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\55_FormulariosRedirect"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\54_EjercicioMultiplicarParametros"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\53_Parametros"/>
@@ -29,7 +32,6 @@
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\48_HTMLEjercicios"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\47_HTML"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\46_LibreriaJPAData"/>
-			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\45_JPAData"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\44_JPADao"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\43_EjercicioClienteCapasJavaConfig"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\42_SpringJavaConfig"/>
@@ -37,8 +39,6 @@
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\40_LibreriaBBDDSpring"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\39_EjercicioPeliculasAnotaciones"/>
 			<item value="C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\37_Autowired"/>
-			<item value="D:\JAVA CFB\workspace JSE\Proyectos\26_EjSockets"/>
-			<item value="D:\JAVA CFB\workspace JSE\Proyectos\26_SocketsCarol"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>

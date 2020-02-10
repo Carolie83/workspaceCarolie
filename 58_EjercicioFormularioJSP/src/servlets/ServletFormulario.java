@@ -45,7 +45,7 @@ public class ServletFormulario extends HttpServlet {
 			
 			ordenador.setListaPerifericos(listaPerifericos);
 			//opcion 2, que alguien lo haga por mi
-			listaPerifericos = Arrays.asList(perifericos);
+			listaPerifericos = Arrays.asList(perifericos); //asList convierte de String array  (array normal) a array list
 			ordenador.setListaPerifericos(listaPerifericos);
 		}
 		

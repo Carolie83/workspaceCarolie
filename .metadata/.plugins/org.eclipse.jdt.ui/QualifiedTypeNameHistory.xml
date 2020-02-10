@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.InputMismatchException"/>
-<fullyQualifiedTypeName name="java.util.LinkedList"/>
-<fullyQualifiedTypeName name="java.sql.Connection"/>
-<fullyQualifiedTypeName name="java.sql.DriverManager"/>
-<fullyQualifiedTypeName name="java.util.TimeZone"/>
-<fullyQualifiedTypeName name="com.mysql.cj.xdevapi.PreparableStatement"/>
-<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
-<fullyQualifiedTypeName name="modelo.persistencia.DaoCoche"/>
-<fullyQualifiedTypeName name="modelo.negocio.GestorPelicula"/>
 <fullyQualifiedTypeName name="modelo.persistencia.DaoPelicula"/>
 <fullyQualifiedTypeName name="modelo.persistencia.DaoLibro"/>
 <fullyQualifiedTypeName name="java.lang.Thread"/>
@@ -29,7 +20,6 @@
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
 <fullyQualifiedTypeName name="modelo.entidad.Pelicula"/>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="vista.MainSpringBBDDClientes"/>
 <fullyQualifiedTypeName name="java.lang.Character"/>
 <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
@@ -38,26 +28,36 @@
 <fullyQualifiedTypeName name="modelo.entidad.Cliente"/>
 <fullyQualifiedTypeName name="java.awt.List"/>
 <fullyQualifiedTypeName name="cfg.ConfigSpring"/>
-<fullyQualifiedTypeName name="javax.persistence.Entity"/>
 <fullyQualifiedTypeName name="javax.persistence.Table"/>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
 <fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
 <fullyQualifiedTypeName name="javax.persistence.Id"/>
 <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
 <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
 <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="modelo.negocio.GestorLibreria"/>
 <fullyQualifiedTypeName name="config.Configuracion"/>
 <fullyQualifiedTypeName name="modelo.persistencia.DaoLibreria"/>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
-<fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
 <fullyQualifiedTypeName name="modelo.entidad.Libro"/>
 <fullyQualifiedTypeName name="modelo.entidad.Aeropuerto"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="modelo.negocio.GestorUsuario"/>
 <fullyQualifiedTypeName name="modelo.entidad.Usuario"/>
+<fullyQualifiedTypeName name="curso.modelo.negocio.GestorPedido"/>
+<fullyQualifiedTypeName name="curso.modelo.entidad.Pedido"/>
+<fullyQualifiedTypeName name="curso.modelo.entidad.Ordenador"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.web.context.annotation.RequestScope"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="curso.modelo.persistencia.DaoUsuario"/>
+<fullyQualifiedTypeName name="curso.modelo.negocio.GestorUsuario"/>
+<fullyQualifiedTypeName name="curso.modelo.entidad.Usuario"/>
+<fullyQualifiedTypeName name="org.hibernate.annotations.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
 </qualifiedTypeNameHistroy>

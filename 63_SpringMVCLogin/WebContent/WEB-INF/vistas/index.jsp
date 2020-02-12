@@ -8,5 +8,8 @@
 </head>
 <body>
 	<h1>Bienvenido a su escritorio!!! ${param.usuario }</h1>
+	
+	<a href="peliculas/listar">ir a listar</a>
+	<a href="peliculas/alta">ir a alta</a>
 </body>
 </html>

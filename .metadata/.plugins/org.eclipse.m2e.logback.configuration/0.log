@@ -6383,3 +6383,164 @@ org.eclipse.core.runtime.CoreException: Launch configuration MainAeropuerto refe
 2020-02-12 14:04:16,722 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-02-12 14:04:16,757 [Worker-104: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-02-12 14:04:16,789 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 08:23:59,250 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-13 08:25:25,704 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-13 08:25:25,717 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\60_SpringMVC\src\main\resources
+2020-02-13 08:25:25,720 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-13 08:25:25,728 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\60_SpringMVC\src\test\resources
+2020-02-13 08:25:34,078 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-13 08:25:34,113 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\61_SpringMVCMultiplicarCarol\src\main\resources
+2020-02-13 08:25:34,117 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-13 08:25:34,134 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\61_SpringMVCMultiplicarCarol\src\test\resources
+2020-02-13 08:25:34,625 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-13 08:25:34,632 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\61_SpringMVCTablaMultiplicar\src\main\resources
+2020-02-13 08:25:34,633 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-13 08:25:34,641 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\61_SpringMVCTablaMultiplicar\src\test\resources
+2020-02-13 08:25:34,869 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-13 08:25:34,907 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\62_SpringMVCFormulariosCarol\src\main\resources
+2020-02-13 08:25:34,909 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-13 08:25:34,922 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\62_SpringMVCFormulariosCarol\src\test\resources
+2020-02-13 08:25:37,630 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-13 08:25:37,641 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\63_SpringMVCLogin\src\main\resources
+2020-02-13 08:25:37,643 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-13 08:25:37,650 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\63_SpringMVCLogin\src\test\resources
+2020-02-13 08:25:38,092 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-13 08:25:38,106 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\63_SpringMVCLoginCarol\src\main\resources
+2020-02-13 08:25:38,107 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-13 08:25:38,116 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\63_SpringMVCLoginCarol\src\test\resources
+2020-02-13 08:25:38,580 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-13 08:25:38,589 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\64_SpringJPADataMVCPelisCarol\src\main\resources
+2020-02-13 08:25:38,590 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-13 08:25:38,599 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\64_SpringJPADataMVCPelisCarol\src\test\resources
+2020-02-13 09:15:41,081 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: curso:64_SpringBoot:0.0.1-SNAPSHOT @ C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\64_SpringBoot\pom.xml.
+2020-02-13 09:15:44,596 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19.pom
+2020-02-13 09:15:44,628 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19.pom
+2020-02-13 09:15:44,706 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19.jar
+2020-02-13 09:15:45,003 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19.jar
+2020-02-13 09:15:52,471 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /64_SpringBoot/src/main/java
+2020-02-13 09:15:52,471 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /64_SpringBoot/src/main/resources
+2020-02-13 09:15:52,502 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /64_SpringBoot/src/main/resources
+2020-02-13 09:15:52,518 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /64_SpringBoot/src/test/java
+2020-02-13 09:15:53,315 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19-sources.jar
+2020-02-13 09:15:53,471 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19-sources.jar
+2020-02-13 09:15:53,658 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:8.0.19
+2020-02-13 09:15:57,747 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 26 sec
+2020-02-13 09:16:02,422 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 09:16:02,438 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 09:16:02,485 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 09:16:02,485 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 09:16:02,485 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\64_SpringBoot\src\test\resources
+2020-02-13 09:16:06,594 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 09:16:06,594 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 09:16:06,594 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 09:16:06,594 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 09:16:06,594 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFB(Félix)\Apuntes PERSONAL(Félix)\WorkspaceFelix\WorkspaceCursoCore\64_SpringBoot\src\test\resources
+2020-02-13 09:17:48,956 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: curso:64_SpringBoot:0.0.1-SNAPSHOT @ C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\64_SpringBoot\pom.xml.
+2020-02-13 09:17:50,035 [Worker-22: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /64_SpringBoot/src/main/java
+2020-02-13 09:17:50,035 [Worker-22: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /64_SpringBoot/src/main/resources
+2020-02-13 09:17:50,035 [Worker-22: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /64_SpringBoot/src/main/resources
+2020-02-13 09:17:50,035 [Worker-22: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /64_SpringBoot/src/test/java
+2020-02-13 09:17:50,285 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2020-02-13 09:17:52,775 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 09:17:52,775 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 09:17:52,807 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 09:17:52,807 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 09:17:52,807 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\64_SpringBoot\src\test\resources
+2020-02-13 09:27:31,721 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: curso:65_SpringBootCarol:0.0.1-SNAPSHOT @ C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\65_SpringBootCarol\pom.xml.
+2020-02-13 09:27:32,814 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /65_SpringBootCarol/src/main/java
+2020-02-13 09:27:32,814 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /65_SpringBootCarol/src/main/resources
+2020-02-13 09:27:32,830 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /65_SpringBootCarol/src/main/resources
+2020-02-13 09:27:32,846 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /65_SpringBootCarol/src/test/java
+2020-02-13 09:27:33,560 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2020-02-13 09:27:33,560 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-13 09:27:34,368 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: curso:65_SpringBootCarol:0.0.1-SNAPSHOT @ C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\65_SpringBootCarol\pom.xml.
+2020-02-13 09:27:35,872 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /65_SpringBootCarol/src/main/java
+2020-02-13 09:27:35,872 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /65_SpringBootCarol/src/main/resources
+2020-02-13 09:27:35,872 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /65_SpringBootCarol/src/main/resources
+2020-02-13 09:27:35,888 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /65_SpringBootCarol/src/test/java
+2020-02-13 09:27:36,366 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-02-13 09:27:42,972 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 09:27:42,972 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 09:27:43,034 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 09:27:43,050 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 09:27:43,050 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\65_SpringBootCarol\src\test\resources
+2020-02-13 09:27:43,940 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 09:27:43,940 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 09:27:43,940 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 09:27:43,940 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 09:27:43,940 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\65_SpringBootCarol\src\test\resources
+2020-02-13 09:52:50,631 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 09:52:50,631 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 09:52:50,646 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 09:52:50,646 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 09:52:50,646 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\64_SpringBoot\src\test\resources
+2020-02-13 09:59:27,542 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 09:59:27,542 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 09:59:27,542 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 09:59:27,542 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 09:59:27,542 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\65_SpringBootCarol\src\test\resources
+2020-02-13 09:59:47,952 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 09:59:47,952 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 09:59:47,968 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 09:59:47,968 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 09:59:47,968 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\65_SpringBootCarol\src\test\resources
+2020-02-13 10:00:02,483 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 10:00:02,483 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 10:00:02,483 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 10:00:02,529 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 10:00:02,529 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\65_SpringBootCarol\src\test\resources
+2020-02-13 10:00:15,453 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 10:00:15,453 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 10:00:15,469 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 10:00:15,469 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 10:00:15,469 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\65_SpringBootCarol\src\test\resources
+2020-02-13 10:16:17,645 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 10:16:17,645 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 10:16:17,660 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 10:16:17,660 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 10:16:17,676 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\64_SpringBoot\src\test\resources
+2020-02-13 10:37:57,499 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 10:37:57,499 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 10:37:57,515 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 10:37:57,515 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 10:37:57,515 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\65_SpringBootCarol\src\test\resources
+2020-02-13 10:39:52,954 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 10:39:52,954 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 10:39:52,954 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 10:39:52,954 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 10:39:52,954 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\65_SpringBootCarol\src\test\resources
+2020-02-13 10:43:52,329 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 10:43:52,329 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 10:43:52,345 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 10:43:52,345 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 10:43:52,345 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\64_SpringBoot\src\test\resources
+2020-02-13 10:59:17,363 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 10:59:17,364 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 10:59:17,377 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 10:59:17,377 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 10:59:17,377 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\65_SpringBootCarol\src\test\resources
+2020-02-13 11:04:27,279 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 11:04:27,280 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 11:04:27,299 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 11:04:27,301 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 11:04:27,301 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\65_SpringBootCarol\src\test\resources
+2020-02-13 11:13:57,728 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 11:13:57,728 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 11:13:57,780 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 11:13:57,780 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 11:13:57,780 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\65_SpringBootCarol\src\test\resources
+2020-02-13 11:15:01,831 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 11:15:01,832 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 11:15:01,842 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-13 11:15:01,842 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 11:15:01,842 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\65_SpringBootCarol\src\test\resources
+2020-02-13 12:12:54,586 [Worker-75: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-13 12:12:55,367 [Worker-75: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: curso:65_SpringBootCarol:0.0.1-SNAPSHOT @ C:\Users\aula2m\Documents\CarolFBCurso(Tomas)\Trabajo personal CFB\JAVA CFB\workspace JSE\Proyectos\65_SpringBootCarol\pom.xml.
+2020-02-13 12:12:56,023 [Worker-75: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /65_SpringBootCarol/src/main/java
+2020-02-13 12:12:56,023 [Worker-75: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /65_SpringBootCarol/src/main/resources
+2020-02-13 12:12:56,023 [Worker-75: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /65_SpringBootCarol/src/main/resources
+2020-02-13 12:12:56,023 [Worker-75: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /65_SpringBootCarol/src/test/java
+2020-02-13 12:12:56,523 [Worker-75: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-02-13 12:12:57,889 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 12:12:57,890 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-13 12:12:57,893 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

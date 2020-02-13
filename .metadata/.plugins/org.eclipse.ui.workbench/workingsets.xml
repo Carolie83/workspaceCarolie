@@ -4,6 +4,10 @@
 <item elementID="=01_intro_OObjetos/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1571136324185_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1581581731129_4" label="" name=""/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1581581866941_5" label="64_SpringBoot" name="64_SpringBoot">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/64_SpringBoot" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1571136354171_2" label="Window Working Set" name="Aggregate for window 1571136354170"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1571212450854_3" label="Window Working Set" name="Aggregate for window 1571212450854"/>
 </workingSetManager>

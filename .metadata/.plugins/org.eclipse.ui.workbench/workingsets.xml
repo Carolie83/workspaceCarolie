@@ -8,6 +8,18 @@
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1581581866941_5" label="64_SpringBoot" name="64_SpringBoot">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/64_SpringBoot" type="4"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1581594464544_6" label="65_SpringBootMVC" name="65_SpringBootMVC">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/65_SpringBootMVC" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1581924976154_7" label="66_SpringBootCalculadora" name="66_SpringBootCalculadora">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/66_SpringBootCalculadora" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582016187293_8" label="Examen1290EugenioMartin" name="Examen1290EugenioMartin">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/67_Examen1290EugenioMartin" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582022628068_9" label="68_SpringBootSession" name="68_SpringBootSession">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/68_SpringBootSession" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1571136354171_2" label="Window Working Set" name="Aggregate for window 1571136354170"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1571212450854_3" label="Window Working Set" name="Aggregate for window 1571212450854"/>
 </workingSetManager>

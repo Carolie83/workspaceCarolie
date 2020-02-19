@@ -68,7 +68,7 @@ public class ControladorProducto {
 	
 	@RequestMapping("addProductoLista")
 	public String addProducto(@RequestParam int id,Model model) {
-		System.out.println("Vamos a mostrar la pagina de productos del supermercado");
+		System.out.println("Vamos a añadir productos al carrito");
 		Producto p = gp.buscar(id);
 		if(p != null) {
 			listaProductosSeleccionados.getLista().add(p);
@@ -84,6 +84,7 @@ public class ControladorProducto {
 		//desde aquí mostrarSeleccion mandamos a pagarSeleccion
 		@RequestMapping("mostrarSeleccion")
 		public String mostrarSeleccion(Model model) {
+			System.out.println("vamos a calcular el total de la compra");
 			gp.calcularTotal(listaProductosSeleccionados);
 			model.addAttribute("listaProductosSeleccionados", listaProductosSeleccionados);
 			return"pagarSeleccion";

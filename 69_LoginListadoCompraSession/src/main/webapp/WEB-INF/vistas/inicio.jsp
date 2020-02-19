@@ -43,7 +43,7 @@
 				</tr>
 			</c:forEach>
 		</table>
-		<input type="submit" value="Lista añadida a carrito"/>
+	
 		
 		<div style="text-align: center;">
 		<h1>Listado de productos elegidos</h1>
@@ -65,7 +65,7 @@
 		</table>
 		</div>
 		<form action="mostrarSeleccion">
-		<a href="mostrarSeleccion"> Ir a pagar</a>
+			<input type="submit" value="Pagar"/>
 		
 			<br/>
 			<br>

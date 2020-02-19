@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.io.FileWriter"/>
-<fullyQualifiedTypeName name="java.io.PrintWriter"/>
-<fullyQualifiedTypeName name="org.springframework.context.ApplicationContextException"/>
-<fullyQualifiedTypeName name="modelo.entidad.Persona"/>
 <fullyQualifiedTypeName name="modelo.entidad.Coche"/>
 <fullyQualifiedTypeName name="modelo.entidad.Habitacion"/>
 <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
@@ -37,7 +33,6 @@
 <fullyQualifiedTypeName name="curso.modelo.entidad.Ordenador"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 <fullyQualifiedTypeName name="curso.modelo.persistencia.DaoUsuario"/>
 <fullyQualifiedTypeName name="curso.modelo.negocio.GestorUsuario"/>
 <fullyQualifiedTypeName name="org.hibernate.annotations.Entity"/>
@@ -54,10 +49,15 @@
 <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
 <fullyQualifiedTypeName name="curso.modelo.entidad.Operacion"/>
 <fullyQualifiedTypeName name="org.springframework.web.context.annotation.RequestScope"/>
-<fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
 <fullyQualifiedTypeName name="curso.modelo.persistencia.DaoProducto"/>
 <fullyQualifiedTypeName name="curso.modelo.negocio.GestorProducto"/>
-<fullyQualifiedTypeName name="curso.modelo.entidad.Producto"/>
 <fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
+<fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="curso.modelo.persistencia.DaoCliente"/>
+<fullyQualifiedTypeName name="curso.modelo.negocio.GestorCliente"/>
+<fullyQualifiedTypeName name="curso.modelo.entidad.Cliente"/>
+<fullyQualifiedTypeName name="org.springframework.web.context.annotation.SessionScope"/>
+<fullyQualifiedTypeName name="curso.modelo.entidad.Producto"/>
 </qualifiedTypeNameHistroy>

@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="modelo.entidad.Coche"/>
-<fullyQualifiedTypeName name="modelo.entidad.Habitacion"/>
-<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
-<fullyQualifiedTypeName name="modelo.entidad.Pelicula"/>
-<fullyQualifiedTypeName name="vista.MainSpringBBDDClientes"/>
-<fullyQualifiedTypeName name="java.lang.Character"/>
-<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
-<fullyQualifiedTypeName name="modelo.persistencia.DaoClientes"/>
-<fullyQualifiedTypeName name="modelo.negocio.GestorClientes"/>
 <fullyQualifiedTypeName name="modelo.entidad.Cliente"/>
 <fullyQualifiedTypeName name="java.awt.List"/>
 <fullyQualifiedTypeName name="cfg.ConfigSpring"/>
@@ -31,8 +22,6 @@
 <fullyQualifiedTypeName name="curso.modelo.negocio.GestorPedido"/>
 <fullyQualifiedTypeName name="curso.modelo.entidad.Pedido"/>
 <fullyQualifiedTypeName name="curso.modelo.entidad.Ordenador"/>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
 <fullyQualifiedTypeName name="curso.modelo.persistencia.DaoUsuario"/>
 <fullyQualifiedTypeName name="curso.modelo.negocio.GestorUsuario"/>
 <fullyQualifiedTypeName name="org.hibernate.annotations.Entity"/>
@@ -40,10 +29,7 @@
 <fullyQualifiedTypeName name="curso.modelo.entidad.Usuario"/>
 <fullyQualifiedTypeName name="curso.modelo.negocio.GestorPelicula"/>
 <fullyQualifiedTypeName name="curso.modelo.entidad.Pelicula"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="curso.modelo.negocio.GestorLibreria"/>
-<fullyQualifiedTypeName name="curso.modelo.entidad.Libro"/>
 <fullyQualifiedTypeName name="curso.modelo.persistencia.DaoCalculadora"/>
 <fullyQualifiedTypeName name="curso.modelo.negocio.GestorCalculadora"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
@@ -51,13 +37,27 @@
 <fullyQualifiedTypeName name="org.springframework.web.context.annotation.RequestScope"/>
 <fullyQualifiedTypeName name="curso.modelo.persistencia.DaoProducto"/>
 <fullyQualifiedTypeName name="curso.modelo.negocio.GestorProducto"/>
-<fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
 <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 <fullyQualifiedTypeName name="curso.modelo.persistencia.DaoCliente"/>
 <fullyQualifiedTypeName name="curso.modelo.negocio.GestorCliente"/>
+<fullyQualifiedTypeName name="org.springframework.ui.Model"/>
 <fullyQualifiedTypeName name="curso.modelo.entidad.Cliente"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
 <fullyQualifiedTypeName name="org.springframework.web.context.annotation.SessionScope"/>
+<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="curso.modelo.entidad.Producto"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="curso.modelo.entidad.ListaProductosSeleccionados"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+<fullyQualifiedTypeName name="curso.modelo.persistencia.DaoLibro"/>
+<fullyQualifiedTypeName name="curso.modelo.entidad.Libro"/>
+<fullyQualifiedTypeName name="curso.modelo.entidad.Libros"/>
+<fullyQualifiedTypeName name="curso.modelo.negocio.GestorLibro"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="java.util.Optional"/>
+<fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
 </qualifiedTypeNameHistroy>

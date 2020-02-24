@@ -20,6 +20,13 @@
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582022628068_9" label="68_SpringBootSession" name="68_SpringBootSession">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/68_SpringBootSession" type="4"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582194139490_10" label="69_SpringBoootCarrito" name="69_SpringBoootCarrito">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/69_SpringBoootCarrito" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582286086852_11" label="70_REST" name="70_REST">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/70_RESTwarcaro" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/70_REST" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1571136354171_2" label="Window Working Set" name="Aggregate for window 1571136354170"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1571212450854_3" label="Window Working Set" name="Aggregate for window 1571212450854"/>
 </workingSetManager>

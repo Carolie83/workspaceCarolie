@@ -13,4 +13,5 @@ public interface DaoLibro extends JpaRepository<Libro, Integer>{
 	pero con el parametro que necesitamos**/
 	public Optional<Libro> findByIsbn(String isbn);
 	public List<Libro> findByEditorial(String editorial);
+	
 }

@@ -13,12 +13,13 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import curso.modelo.entidad.Libro;
 import curso.modelo.entidad.Libros;
 import curso.modelo.negocio.GestorLibro;
-import curso.modelo.persistencia.DaoLibro;
+
 
 /**Aqui no anotamos la clase con @Controller
 ya que con esa anotacion lo que se esperan los metodos que devuelvas son vistas. Aqui en rest devolvemos directamente datos**/
@@ -42,6 +43,7 @@ public class ControladorLibro {
 
 	/**Para hacer pruebas con postman, mandaríamos el body de esta forma
 	 *  con post: BODY {"isbn":"123abc","titulo":"el duende a rayas","editorial":"anaya","anioPublicacion":1980}
+	 *  con post: BODY {"isbn":"111aaa","titulo":"el perro azul","editorial":"edelvives","anioPublicacion":1983}
 	 *  Con este método nos daría de alta el cliente los parametros , consumimos JSON y produces JSON,
 	 *   enviando info del libro con id y mensaje que se dió de alta HttpStatus.CREATED **/
 
@@ -82,11 +84,12 @@ public class ControladorLibro {
 			return new ResponseEntity<Libro>(HttpStatus.NOT_FOUND);
 		}
 	}
-	//este es el único que no funciona adecuadamente
-	@PutMapping(path="libros/{isbn}", consumes =  MediaType.APPLICATION_JSON_VALUE,
+	//este es el único que no funciona adecuadamente, despues de los cambios sigue sin funcionar, ver ejercicio profe, 
+	//no se puede modificaar por otros parametros, solo con claves primarias(id)
+	//el id es el unico que puede ir en url porque es clave primaria, para poner isbn, tengo que poner url peliculas y request param el id
+	@PutMapping(path="libros", consumes =  MediaType.APPLICATION_JSON_VALUE,
 			produces =  MediaType.APPLICATION_JSON_VALUE)
-	public ResponseEntity<Libro> modificar(@RequestBody Libro libro,
-					@PathVariable String isbn){
+	public ResponseEntity<Libro> modificar(@RequestParam (name ="isbn",required = false) String isbn,@RequestBody Libro libro){
 		int respuesta = gl.modificarPorIsbn(isbn,libro);
 		if(respuesta != -1) {
 			libro.setIsbn(isbn);

@@ -30,6 +30,9 @@
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582628473641_12" label="71_RESTPelicula" name="71_RESTPelicula">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/71_RESTPelicula" type="4"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582629751297_13" label="72_ClienteRESTPelicula" name="72_ClienteRESTPelicula">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/72_ClienteRESTPelicula" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1571136354171_2" label="Window Working Set" name="Aggregate for window 1571136354170"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1571212450854_3" label="Window Working Set" name="Aggregate for window 1571212450854"/>
 </workingSetManager>
